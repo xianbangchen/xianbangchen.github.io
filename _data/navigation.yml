@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: https://xianbangchen.github.io/
-  - title: "Sample Posts"
-    url: /year-archive/
+
+  - title: "Publications"
+    url: /publications/
+
   #- title: "Sample Collections"
   #  url: /collection-archive/
   #- title: "Sitemap"
