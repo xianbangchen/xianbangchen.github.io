@@ -1,3 +1,3 @@
-# Publications
+# News
 
 Coming soon…
