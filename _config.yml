@@ -117,7 +117,7 @@ author:
   avatar           : /assets/images/bio-photo.png
   links:
     - label: "Stevens Institute of Technology"
-      icon: "fab fa-fw fa-school-square"
+      icon: "fab fa-fw fa-university"
       url: "https://www.stevens.edu/"
     - label: "xchen130@stevens.edu"
       icon: "fas fa-fw fa-envelope-square"
