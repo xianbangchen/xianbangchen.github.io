@@ -4,7 +4,7 @@ main:
     url: https://xianbangchen.github.io/
 
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
 
   #- title: "Sample Collections"
   #  url: /collection-archive/
