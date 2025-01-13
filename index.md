@@ -1,3 +1,10 @@
+---
+layout: single  # or "single", "page", or any minimal-mistakes layout that shows sidebar
+author_profile: true
+title: "About"
+permalink: /
+---
+
 Xianbang Chen is a postdoctoral fellow at the Electric Power and Energy Systems Laboratory at Stevens Institute of Technology (SIT), collaborating with [Prof. Lei Wu](https://sites.google.com/site/leiwupes/about-me). He received his B.S. and M.S. in Electrical Engineering from Sichuan University in Chengdu, China, in 2017 and 2020, respectively, and completed his Ph.D. in Electrical Engineering at SIT in 2024 under [Prof. Lei Wu](https://sites.google.com/site/leiwupes/about-me)’s supervision. Xianbang’s research centers on enhancing the operational efficiency of modern power systems through the integration of hybrid optimization and learning methodologies.
 
 A data-driven personal website
