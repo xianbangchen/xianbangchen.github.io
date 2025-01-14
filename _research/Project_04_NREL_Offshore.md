@@ -1,8 +1,7 @@
 ---
 title: "Interregional Operational Coordination for Offshore Wind to Participate in Multiple Regional Markets"
 
-header:
-  image: /assets/images/Project_01_CPO_Fig01_Title.gif
+image: /assets/images/Project_01_CPO_Fig01_Title.gif
 
 excerpt:"?"
 
