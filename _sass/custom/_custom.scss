@@ -1,10 +1,8 @@
-// Remove underline from card links
-.card__link,
-.card__image-link {
+// Remove underlines from all links
+a {
   text-decoration: none;
 }
-
-.card__link:hover,
-.card__image-link:hover {
-  text-decoration: none; // or "underline" if you want only on hover
+// Optional: add an underline on hover for clarity
+a:hover {
+  text-decoration: underline;
 }
