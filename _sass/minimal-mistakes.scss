@@ -36,9 +36,5 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-// Import Minimal Mistakes
-@import "minimal-mistakes";
-
-// Import your overrides last
 @import "custom/custom";
 
