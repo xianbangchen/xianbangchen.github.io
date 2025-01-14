@@ -1,5 +1,5 @@
 ---
-title: "Distributionally Robust Optimization-based Operations"
+title: "Distributionally Robust Optimization-based Power System Operations"
 layout: single           # So it displays like a normal page
 ---
 ![An Example GIF](/assets/images/Project_01_CPO_Fig01_Title.gif)
