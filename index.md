@@ -3,9 +3,6 @@ layout: single
 title: "About"
 author_profile: true
 permalink: /
-
-header:
-  image: /assets/images/header_1.png
   
 ---
 
