@@ -1,8 +1,9 @@
-// Remove underlines from all links
+// Remove underlines from all hyperlinks
 a {
   text-decoration: none;
-}
-// Optional: add an underline on hover for clarity
-a:hover {
-  text-decoration: underline;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline; // or `none` if you don't want any hover underline
+  }
 }

@@ -36,4 +36,11 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-@import "custom/custom";      // Your custom overrides
+// assets/css/main.scss
+---
+# Front matter
+---
+
+@import "minimal-mistakes"; 
+@import "custom/custom"; // your overrides
+
