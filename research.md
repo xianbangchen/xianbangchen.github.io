@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Map"
 layout: collection
 collection: research
 permalink: /research/
