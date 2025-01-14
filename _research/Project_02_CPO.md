@@ -1,5 +1,5 @@
 ---
-title: "Research Project 2"
+title: "Boosting Power System Operation Economics via Closed-Loop Predict-Then-Optimize"
 layout: single           # So it displays like a normal page
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 ---

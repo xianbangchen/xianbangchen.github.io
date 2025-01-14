@@ -1,5 +1,5 @@
 ---
-title: "Research Project 3"
+title: "Medium-Term Planning of Cascaded Hydropower Systems"
 layout: single           # So it displays like a normal page
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 ---
