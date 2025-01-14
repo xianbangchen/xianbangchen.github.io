@@ -4,8 +4,4 @@ layout: collection
 collection: research
 permalink: /research/
 entries_layout: cards   # or 'list' or 'cards'
-
-# Hide the sidebar:
-classes: wide        # or use "sidebar: false"
-author_profile: false
 ---
