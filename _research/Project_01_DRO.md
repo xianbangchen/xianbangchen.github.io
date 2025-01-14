@@ -1,7 +1,7 @@
 ---
 title: "Distributionally Robust Optimization-based Power System Operations"
 header:
-  teaser: /assets/images/Project_01_CPO_Fig01_Title.gif
+  image: /assets/images/Project_01_CPO_Fig01_Title.gif
 excerpt: "A short description or teaser of the project."
 layout: single           # So it displays like a normal page
 ---

@@ -1,9 +1,10 @@
-/* _sass/custom/_custom.scss */
-
-.archive__item-title a {
+// Remove underline from card links
+.card__link,
+.card__image-link {
   text-decoration: none;
 }
 
-.archive__item-title a:hover {
-  text-decoration: none;
+.card__link:hover,
+.card__image-link:hover {
+  text-decoration: none; // or "underline" if you want only on hover
 }
