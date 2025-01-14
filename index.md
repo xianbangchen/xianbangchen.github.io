@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 
 header:
-  image: /assets/images/header_1.jpg
+  image: /assets/images/header_1.png
   
 ---
 
