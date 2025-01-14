@@ -243,6 +243,11 @@ pagination:
     before: 2
     after: 2
 
+collections:
+  research:
+    output: true
+    permalink: /research/:title/
+
 
 # Plugins (previously gems:)
 plugins:
