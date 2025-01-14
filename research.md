@@ -3,6 +3,6 @@ title: "Research"
 layout: collection
 collection: research
 permalink: /research/
-entries_layout: grid   # or 'list' or 'cards'
+entries_layout: cards   # or 'list' or 'cards'
 classes: wide
 ---
