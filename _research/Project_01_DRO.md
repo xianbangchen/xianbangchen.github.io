@@ -4,7 +4,7 @@ title: "Project_01_DRO"
 header:
   teaser: /assets/images/bio-photo.png
 
-excerpt: "Apply distributionally robust optimization for power system operations, taking into account uncertainties."
+excerpt: ""
 
 layout: single           # So it displays like a normal page
 

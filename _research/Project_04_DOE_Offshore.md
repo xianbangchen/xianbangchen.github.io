@@ -3,7 +3,7 @@ title: "Project_04_DOE_Offshore"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 
-excerpt: "Interregional Operational Coordination for Offshore Wind to Participate in Multiple Regional Markets"
+excerpt: ""
 
 layout: single           # So it displays like a normal page
 ---

@@ -3,7 +3,7 @@ title: "Project_03_DOE_PGE"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 
-excerpt: "Supporting the decision-making of medium-term cascaded hydropower planning."
+excerpt: ""
 
 layout: single           # So it displays like a normal page
 ---
