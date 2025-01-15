@@ -3,7 +3,7 @@ title: "Distributionally Robust Optimization-based Power System Operations"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 
-excerpt: "Appy distributionally robust optimization to power system operations considering uncertainties."
+excerpt: "Apply distributionally robust optimization for power system operations, taking into account uncertainties."
 
 layout: single           # So it displays like a normal page
 
