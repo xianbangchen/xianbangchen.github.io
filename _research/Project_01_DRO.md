@@ -1,7 +1,7 @@
 ---
 title: "Distributionally Robust Optimization-based Power System Operations"
 
-teaser: /assets/images/Project_01_CPO_Fig01_Title.gif
+teaser: /assets/images/bio-photo.png
 
 excerpt: "Apply distributionally robust optimization for power system operations, taking into account uncertainties."
 
