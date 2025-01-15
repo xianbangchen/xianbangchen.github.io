@@ -1,5 +1,5 @@
 ---
-title: "Distributionally Robust Optimization-based Power System Operations"
+title: "Project_01_DRO" 
 
 header:
   teaser: /assets/images/bio-photo.png
@@ -7,6 +7,8 @@ header:
 excerpt: "Apply distributionally robust optimization for power system operations, taking into account uncertainties."
 
 layout: single           # So it displays like a normal page
+
+permalink: /research/project1/ 
 
 tags: [some-tag]
 

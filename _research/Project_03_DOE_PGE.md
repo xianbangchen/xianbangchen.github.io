@@ -1,5 +1,5 @@
 ---
-title: "Medium-Term Planning of Cascaded Hydropower Systems"
+title: "Project_03_DOE_PGE"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 

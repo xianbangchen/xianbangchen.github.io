@@ -1,5 +1,5 @@
 ---
-title: "Boosting Power System Operation Economics via Closed-Loop Predict-Then-Optimize"
+title: "Project_02_CPO.md"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 

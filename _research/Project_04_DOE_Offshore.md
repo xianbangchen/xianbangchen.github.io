@@ -1,5 +1,5 @@
 ---
-title: "Interregional Operational Coordination for Offshore Wind to Participate in Multiple Regional Markets"
+title: "Project_04_DOE_Offshore"
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 

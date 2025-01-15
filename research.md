@@ -6,16 +6,37 @@ permalink: /research/
 author_profile: true
 ---
 
-## Project 1
+## Project 1: Distributionally Robust Optimization
 
-[![Project 1 GIF or Image](/assets/images/Project1.gif)](https://yoursite.github.io/research/project1/)
+[![Project 1 Thumbnail](/assets/images/Project_01_DRO.png)](/research/Project_01_DRO/)
   
-A short introduction or summary. [Read more »](https://yoursite.github.io/research/project1/)
+A short introduction to **Project 1**.  
+[Click here for more details »](/research/Project_01_DRO/)
 
 ---
 
-## Project 2
+## Project 2: Chance-constrained or CPO Methods
 
-[![Project 2 Thumbnail](/assets/images/Project2.png)](https://yoursite.github.io/research/project2/)
+[![Project 2 Thumbnail](/assets/images/Project_02_CPO.gif)](/research/Project_02_CPO/)
+  
+A brief summary of **Project 2**.  
+[Click here for more details »](/research/Project_02_CPO/)
 
-A brief description or teaser of the project. [Read more »](https://yoursite.github.io/research/project2/)
+---
+
+## Project 3: DOE PGE
+
+[![Project 3 Thumbnail](/assets/images/Project_03_DOE_PGE.png)](/research/Project_03_DOE_PGE/)
+
+Some teaser text for **Project 3**.  
+[Click here for more details »](/research/Project_03_DOE_PGE/)
+
+---
+
+## Project 4: DOE Offshore
+
+[![Project 4 Thumbnail](/assets/images/Project_04_DOE_Offshore.png)](/research/Project_04_DOE_Offshore/)
+
+Some short intro about **Project 4**.  
+[Click here for more details »](/research/Project_04_DOE_Offshore/)
+Key points in that snippet:
