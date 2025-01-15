@@ -3,7 +3,7 @@ title: "Research Map"
 layout: collection
 collection: research
 permalink: /research/
-entries_layout: list   # or 'list' or 'cards'
+entries_layout: grid   # or 'list' or 'cards'
 
 # Hide the sidebar:
 classes: wide        # or use "sidebar: false"

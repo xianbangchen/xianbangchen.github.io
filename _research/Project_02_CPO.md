@@ -7,7 +7,7 @@ excerpt: "Closing the open loop between the uncertainty prediction phase and the
 
 layout: single           # So it displays like a normal page
 ---
-Write a longer **description** here to introduce your project.
+![An Example GIF](/assets/images/Project_01_CPO_Fig01_Title.gif)
 
 - Some bullet points
 - Some references
