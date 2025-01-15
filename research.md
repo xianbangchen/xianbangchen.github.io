@@ -1,4 +1,5 @@
 ---
+title: "Research Map"
 layout: single
 collection: research
 permalink: /research/
