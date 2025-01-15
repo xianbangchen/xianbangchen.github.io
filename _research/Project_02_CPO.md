@@ -3,7 +3,7 @@ title: "Boosting Power System Operation Economics via Closed-Loop Predict-Then-O
 
 image: /assets/images/Project_01_CPO_Fig01_Title.gif
 
-excerpt: "Improving power system operational economics via closing the open-loop between uncertainty prediction phase and the operation optimization phase."
+excerpt: "Closing the open loop between the uncertainty prediction phase and the operation optimization phase so as to improve power system operational economics."
 
 layout: single           # So it displays like a normal page
 ---
