@@ -8,7 +8,6 @@ author_profile: false
 **[Project 01: Distributionally Robust Optimization-based Power System Operations](/research/Project_01_DRO.md)**  
 
 [![Project 01 Thumbnail](/assets/images/Project_01_Fig01_Title.gif)](/research/Project_01_DRO.md)
-
 _Apply distributionally robust optimization for power system operations, taking into account uncertainties._ [Read More »](/research/Project_01_DRO.md)
 
 ---
