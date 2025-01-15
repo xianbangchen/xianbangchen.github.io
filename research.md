@@ -17,7 +17,7 @@ A short introduction to **Project 1**.
 
 ## Project 2: Chance-constrained or CPO Methods
 
-[![Project 2 Thumbnail](/assets/images/Project_02_CPO.gif)](/research/Project_02_CPO/)
+[![Project 2 Thumbnail](/assets/images/Project_01_CPO_Fig01_Title.gif)](/research/Project_02_CPO/)
   
 A brief summary of **Project 2**.  
 [Click here for more details »](/research/Project_02_CPO/)
