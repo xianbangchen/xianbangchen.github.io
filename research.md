@@ -12,7 +12,7 @@ _Apply distributionally robust optimization for power system operations, taking 
 
 ---
 
-**[Project 02: Closed-Loop Predict-then-Optimize for Power System Operations](/research/Project_02_CPO.md)**  
+**[Project 02: Closed-Loop Predict-Then-Optimize for Enhancing Power System Operating Economics](/research/Project_02_CPO.md)**  
 [![Project 02 Thumbnail](/assets/images/Project_02_Fig01_Title.gif)](/research/Project_02_CPO.md)
 _Closing the open loop between the uncertainty prediction phase and the operation optimization phase so as to improve power system operational economics._ [Read More »](/research/Project_02_CPO.md)
 
