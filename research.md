@@ -1,6 +1,6 @@
 ---
 title: "Research Map"
-layout: collection
+layout: archive
 collection: research
 permalink: /research/
 entries_layout: cards   # "grid", "list", or "tiles"
