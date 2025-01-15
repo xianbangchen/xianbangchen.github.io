@@ -3,7 +3,7 @@ title: "Research Map"
 layout: single
 collection: research
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 ## Project 01: Distributionally Robust Optimization
