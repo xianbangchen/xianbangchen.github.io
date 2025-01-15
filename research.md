@@ -1,19 +1,21 @@
 ---
 title: "Research Map"
-layout: collection
+layout: single
 collection: research
 permalink: /research/
-entries_layout: cards   # "grid", "list", or "tiles"
-classes: wide        # or use "sidebar: false"
 author_profile: true
-show_excerpts: true
-show_teaser: true
 ---
 
-Sample document listing for the collection `_pets`.
+## Project 1
 
+[![Project 1 GIF or Image](/assets/images/Project1.gif)](https://yoursite.github.io/research/project1/)
+  
+A short introduction or summary. [Read more »](https://yoursite.github.io/research/project1/)
 
-Sample document listing for the collection `_pets`.
+---
 
+## Project 2
 
-Sample document listing for the collection `_pets`.
+[![Project 2 Thumbnail](/assets/images/Project2.png)](https://yoursite.github.io/research/project2/)
+
+A brief description or teaser of the project. [Read more »](https://yoursite.github.io/research/project2/)
