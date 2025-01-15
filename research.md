@@ -19,7 +19,7 @@ _Closing the open loop between the uncertainty prediction phase and the operatio
 ---
 
 **[Project 03: Medium-Term Planning for Cascaded Hydropower Systems](/research/Project_03_DOE_PGE.md)**  
-[![DOE PGE](/assets/images/Project_02_Fig01_Title.gif)](/research/Project_03_DOE_PGE.md)
+[![DOE PGE](/assets/images/Project_03_Fig01_Title.pdf)](/research/Project_03_DOE_PGE.md)
 _Supporting the decision-making of medium-term cascaded hydropower planning._ [Read More »](/research/Project_03_DOE_PGE.md)
 
 ---
