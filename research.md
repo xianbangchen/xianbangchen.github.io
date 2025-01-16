@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 **[Project 04: Interregional Operational Coordination for Offshore Wind](/research/Project_04_DOE_Offshore.md)**  
-[![Project 04 Thumbnail](/assets/images/Project_02_Fig01_Title.gif)](/research/Project_04_DOE_Offshore.md)
+[![Project 04 Thumbnail](/assets/images/Project_04_Fig01_Title.gif)](/research/Project_04_DOE_Offshore.md)
 _Addressing market design and operational gaps in offshore wind power with multi-regional participation through cross-regional transmission coordination._ [Read More »](/research/Project_04_DOE_Offshore.md)
 
 ---
