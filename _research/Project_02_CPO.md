@@ -6,6 +6,7 @@ tags: [Predict Then Optimize, Unit Commitment, Prescriptive Analytics, Value-Ori
 ---
 
 The first project in my Ph.D. career. It is to sell a *closed-loop predict-then-optimize (CPO)* idea. Power system operations generally follow an *open-loop predict-then-optimize (OPO)* process:
+
 ![Open-Loop Process](/assets/images/Project_02_Fig02_OPO.gif){: style="width: 70%" }
 
 1. **Predict** uncertainties, e.g., wind power, as accurately as possible.
@@ -15,9 +16,11 @@ The ultimate objective is to minimize the operating cost.
 
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. This implies that a more statistically accurate prediction may not lead to an economically better operating plan.
 ![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.jpeg){: style="width: 70%" }
+
 *Figure 1: This is a short caption or descriptive text.*
 
 To this end, we introduce the CPO idea, which emphasizes that:
+
 ![Closed-Loop Process](/assets/images/Project_02_Fig04_CPO.gif){: style="width: 70%" }
 
 1. Feed the operating cost back to the prediction phase.
