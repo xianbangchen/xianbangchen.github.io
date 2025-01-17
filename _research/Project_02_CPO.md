@@ -14,6 +14,7 @@ The ultimate objective is to minimize the operating cost.
 <p align="center">
   <img src="/assets/images/Project_02_Fig02_OPO.gif" alt="Alt text" width="80%">
       <figcaption style="font-style: italic;"> Open-loop predict-then-optimize.</figcaption>
+</p>
 <p align="center">
   <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
       <figcaption style="font-style: italic;"> Closed-loop predict-then-optimize.</figcaption>
