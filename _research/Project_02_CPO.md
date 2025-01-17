@@ -5,7 +5,7 @@ permalink: /research/Project_02_CPO/
 tags: [Predict Then Optimize, Unit Commitment, Prescriptive Analytics, Value-Oriented Prediction, Bi-Level Mixed-Integer Programming]
 ---
 
-This is the first project of my Ph.D. career. It aims to sell an idea, a.k.a. *closed-loop predict-then-optimize (CPO)*.
+This is the first project of my Ph.D. career. It aims to sell a *closed-loop predict-then-optimize (CPO)* idea.
 
 To achieve the lowest operating cost, power system operations generally use an *open-loop predict-then-optimize (OPO)* process:
 1. **Predict** uncertainties, e.g., wind power, as accurately as possible.
