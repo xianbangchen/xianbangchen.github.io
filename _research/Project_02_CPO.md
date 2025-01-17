@@ -1,11 +1,12 @@
 ---
 title: "Project_02_CPO.md"
 
-image: /assets/images/Project_01_CPO_Fig01_Title.gif
-
-excerpt: ""
-
 layout: single           # So it displays like a normal page
+
+permalink: /research/Project_02_CPO/ 
+
+tags: [some-tag]
+
 ---
 ![An Example GIF](/assets/images/Project_01_CPO_Fig01_Title.gif)
 

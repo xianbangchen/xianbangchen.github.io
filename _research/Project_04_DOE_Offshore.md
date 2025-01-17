@@ -1,13 +1,14 @@
 ---
 title: "Project_04_DOE_Offshore"
 
-image: /assets/images/Project_01_CPO_Fig01_Title.gif
-
-excerpt: ""
-
 layout: single           # So it displays like a normal page
+
+permalink: /research/Project_04_DOE_Offshore/ 
+
+tags: [some-tag]
+
 ---
-Write a longer **description** here to introduce your project.
+![An Example GIF](/assets/images/Project_01_CPO_Fig01_Title.gif)
 
 - Some bullet points
 - Some references

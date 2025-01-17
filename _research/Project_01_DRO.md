@@ -1,14 +1,9 @@
 ---
 title: "Project_01_DRO" 
 
-header:
-  teaser: /assets/images/bio-photo.png
-
-excerpt: ""
-
 layout: single           # So it displays like a normal page
 
-permalink: /research/project1/ 
+permalink: /research/Project_01_DRO/ 
 
 tags: [some-tag]
 
