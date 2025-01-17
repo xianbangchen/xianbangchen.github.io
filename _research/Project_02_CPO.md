@@ -18,7 +18,7 @@ The ultimate objective is to minimize the operating cost.
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. This implies that a more statistically accurate prediction may not lead to an economically better operating plan.
 <p align="center">
   <img src="/assets/images/Project_02_Fig03_Trend.jpg" alt="Alt text" width="80%">
-      <figcaption style="font-style: italic;">Testing results on the IEEE 118-bus system. The dots represent specific testing samples with a specific prediction error, and the red line represents the trend line.</figcaption>
+      <figcaption style="font-style: italic;">Testing results on the IEEE 118-bus system. The dots represent specific testing samples with a specific prediction error, and the red line represents the trend line. As can be seen, Point A has a smaller mean absolute percentage error (MAPE), but it leads to a higher operating cost compared to Point B.</figcaption>
 </p>
 
 To this end, we introduce the CPO idea, which emphasizes that:
