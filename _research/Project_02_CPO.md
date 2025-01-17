@@ -31,8 +31,16 @@ To this end, we are selling you the CPO idea, which features that:
 1. It feeds the operating cost back to the prediction phase.
 2. The predictor training evaluates prediction quality via operating costs rather than statistical accuracy criterion (e.g., MAPE).
 
-## Related Papers
+**Related Papers**
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+  <li style="padding-left: 2em; text-indent: -1.5em;">
+    [1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," <em>IEEE Transactions on Power Systems</em>, 2021.
+    <a href="/assets/papers/Project_02_Paper_01.pdf">[PDF »]</a>
+    <a href="https://github.com/asxadf/Closed_Loop_NCUC_Dataset">[Code »]</a>
+  </li>
 
-[1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," *IEEE Transactions on Power Systems*, 2021. [PDF »](/assets/papers/Project_02_Paper_01.pdf) [Code »](https://github.com/asxadf/Closed_Loop_NCUC_Dataset)
-
-[2] Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," *IEEE Transactions on Sustainable Energy*, 2024. [PDF »](/assets/papers/Project_02_Paper_02.pdf)
+  <li style="padding-left: 2em; text-indent: -1.5em;">
+    [2] Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2022.
+    <a href="/assets/papers/Project_02_Paper_02.pdf">[PDF »]</a>
+  </li>
+</ul>
