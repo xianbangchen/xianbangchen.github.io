@@ -16,7 +16,7 @@ The ultimate objective is to minimize the operating cost.
 
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. This implies that a more statistically accurate prediction may not lead to an economically better operating plan.
 <p align="center">
-  <img src="/assets/images/Project_02_Fig03_Trend.jpeg" alt="Alt text" width="80%">
+  <img src="/assets/images/Project_02_Fig03_Trend.jpg" alt="Alt text" width="80%">
 </p>
 
 *Figure 1: This is a short caption or descriptive text.*
