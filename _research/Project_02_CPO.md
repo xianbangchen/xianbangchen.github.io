@@ -27,12 +27,12 @@ The OPO process does make sense. Yet, due to the nonlinearity and complexity of 
       <figcaption style="font-style: italic;">Testing results on the IEEE 118-bus system. Each dot represents a specific testing sample with a prediction error and the corresponding increase in operating cost, while the red line indicates the overall trend. As observed, Point A has a smaller mean absolute percentage error (MAPE), but it leads to a higher operating cost compared to Point B.</figcaption>
 </p>
 
-To this end, we introduce the CPO idea, which emphasizes that:
-1. Feed the operating cost back to the prediction phase.
-2. Evaluate prediction quality via the operating cost instead of statistical accuracy.
+To this end, we are selling you the CPO idea, which features that:
+1. It feeds the operating cost back to the prediction phase.
+2. The predictor training evaluates prediction quality via operating costs rather than statistical accuracy criterion (e.g., MAPE).
 
 ## Related Papers
 
-[1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," *IEEE Transactions on Power Systems*, 2021. [PDF »](/assets/papers/Project_02_Paper_01.pdf)
+[1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," *IEEE Transactions on Power Systems*, 2021. [PDF »](/assets/papers/Project_02_Paper_01.pdf)[Code »](https://github.com/asxadf/Closed_Loop_NCUC_Dataset)
 
 [2] Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," *IEEE Transactions on Sustainable Energy*, 2024. [PDF »](/assets/papers/Project_02_Paper_02.pdf)
