@@ -7,7 +7,9 @@ sidebar: false
 classes: wide
 ---
 
-![An Example GIF](/assets/images/Project_01_Fig01_Title.gif)
+<p align="center">
+  <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="70%">
+</p>
 
 My first research project ever, and it is methodology-oriented.
  

@@ -13,8 +13,11 @@ _Study market design and operational challenges for cross-regional transmission 
 ---
 
 **[Project 03: Cascaded Hydropower Operations](/research/Project_03_DOE_PGE/)**
-[![Project 03 Thumbnail](/assets/images/Project_03_Fig01_Title.jpg)](/research/Project_03_DOE_PGE/)
-_Assist cascaded hydropower fleets in adapting to modern power systems by enhancing their operations._ [Read More »](/research/Project_03_DOE_PGE/)
+
+<p align="center">
+  <img src="/assets/images/Project_03_Fig01_Title.jpg" alt="Alt text" width="100%">
+</p>
+*Assist cascaded hydropower fleets in adapting to modern power systems by enhancing their operations.* [Read More »](/research/Project_03_DOE_PGE/)
 
 ---
 
@@ -22,7 +25,7 @@ _Assist cascaded hydropower fleets in adapting to modern power systems by enhanc
 <p align="center">
   <img src="/assets/images/Project_02_Fig01_Title.gif" alt="Alt text" width="80%">
 </p>
-*Close the open loop between the uncertainty prediction phase and the operation optimization phase to improve operational economics.*_ [Read More »](/research/Project_02_CPO/)
+*Close the open loop between the uncertainty prediction phase and the operation optimization phase to improve operational economics.* [Read More »](/research/Project_02_CPO/)
 
 ---
 
