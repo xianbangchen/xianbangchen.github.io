@@ -4,14 +4,14 @@ layout: single
 permalink: /research/Project_03_DOE_PGE/ 
 tags: [Cascaded Hydropower, Reinforcement Learning, Multi-Parametric Programming]
 ---
+This project is supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/nepa/articles/cx-101766-exploring-multidimensional-spatial-temporal-hydropower-operational).
+
+We collaborate with the University of Arizona team—led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)—as well as [Portland General Electric](https://portlandgeneral.com/about) to explore how cascaded hydropower systems can be optimized to achieve greater operational efficiency in modern power systems.
+
 <p align="center">
-  <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="70%">
+  <img src="/assets/images/Project_03_Fig01_Title.jpg" alt="Alt text" width="100%">
 </p>
 
-![An Example GIF](/assets/images/Project_03_Fig01_Title.jpg)
-
-- Some bullet points
-- Some references
 
 
 **Related Papers**
