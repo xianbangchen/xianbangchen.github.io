@@ -12,13 +12,13 @@ _Addressing market design and operational gaps in offshore wind power with multi
 
 ---
 
-**[Project 03: Medium-Term Planning for Cascaded Hydropower Systems](/research/Project_03_DOE_PGE.md)**  
+**[Project 03: Medium-Term Cascaded Hydropower Planning](/research/Project_03_DOE_PGE.md)**  
 [![Project 03 Thumbnail](/assets/images/Project_03_Fig01_Title.gif)](/research/Project_03_DOE_PGE.md)
 _._ [Read More »](/research/Project_03_DOE_PGE.md)
 
 ---
 
-**[Project 02: Closed-Loop Predict-Then-Optimize for Enhancing Power System Operating Economics](/research/Project_02_CPO.md)**  
+**[Project 02: Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO.md)**  
 [![Project 02 Thumbnail](/assets/images/Project_02_Fig01_Title.gif)](/research/Project_02_CPO.md)
 _Closing the open loop between the uncertainty prediction phase and the operation optimization phase so as to improve power system operational economics._ [Read More »](/research/Project_02_CPO.md)
 
