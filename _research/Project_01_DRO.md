@@ -19,18 +19,17 @@ This project applies distributionally robust optimization to economic dispatch i
 - [2]. Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye. "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," *CSEE Journal of Power and Energy Systems*, 2022. [PDF »](/assets/papers/Project_01_Paper_02.pdf)
 
 
-<ul style="list-style: none; padding: 0; margin: 0;">
+## References
 
-<li>
-[1)] Author A, Author B.  
-"Paper Title," *Journal*, Year. 
-[PDF »](/assets/papers/paper1.pdf)
-</li>
+<ul style="list-style: none; margin: 0; padding: 0;">
+  <li>[1)] Author A, Author B.<br>
+  "Paper Title," <em>Journal</em>, Year. 
+  <a href="/assets/papers/paper1.pdf">[PDF »]</a>
+  </li>
 
-<li>
-[2)] Author C, Author D.  
-"Another Title," *Conference*, Year. 
-[PDF »](/assets/papers/paper2.pdf)
-</li>
-
+  <li>[2)] Author C, Author D.<br>
+  "Another Title," <em>Conference</em>, Year. 
+  <a href="/assets/papers/paper2.pdf">[PDF »]</a>
+  </li>
 </ul>
+
