@@ -12,7 +12,12 @@ The first project in my Ph.D. career. It is to sell a *closed-loop predict-then-
 The ultimate objective is to minimize the operating cost.
 
 <p align="center">
+      <figcaption style="font-style: italic;">Closed-loop predict-then-optimize process.</figcaption>
+</p>
+
+<p align="center">
   <img src="/assets/images/Project_02_Fig02_OPO.gif" alt="Alt text" width="80%">
+  <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
     <figcaption style="font-style: italic;">Open-loop predict-then-optimize process.</figcaption>
 </p>
 
@@ -25,10 +30,6 @@ The OPO process does make sense. However, due to the nonlinearity and complexity
 To this end, we introduce the CPO idea, which emphasizes that:
 1. Feed the operating cost back to the prediction phase.
 2. Evaluate prediction quality via the operating cost instead of statistical accuracy.
-<p align="center">
-  <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
-      <figcaption style="font-style: italic;">Closed-loop predict-then-optimize process.</figcaption>
-</p>
 
 ## Related Papers
 
