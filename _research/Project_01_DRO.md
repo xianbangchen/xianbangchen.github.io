@@ -15,7 +15,7 @@ This project applies distributionally robust optimization to economic dispatch i
 
 ## Related Papers
 
-<small>
+<small style="font-size: 90%;">
 
 [1] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, Yanli Ye.  
 "WKS-type distributionally robust optimisation for optimal sub-hourly look-ahead economic dispatch,"  
