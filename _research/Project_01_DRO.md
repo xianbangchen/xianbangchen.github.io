@@ -12,7 +12,7 @@ My first research project ever, and it is methodology-oriented.
 This project applies distributionally robust optimization to economic dispatch in power systems, considering the uncertainties arising from variable renewable resources.
 
 
-Related papers:
+**Related Papers**
 [1] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, Yanli Ye, "WKS-type distributionally robust optimisation for optimal sub-hourly look-ahead economic dispatch," IET Generation, Transmission & Distribution, 2020.
 
 [2] Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye, "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," CSEE Journal of Power and Energy Systems, 2022.
