@@ -3,7 +3,7 @@ title: "Selected Research Projects"
 layout: single
 collection: research
 permalink: /research/
-author_profile: false
+author_profile: true
 ---
 
 **[Project 04: Coordinated Operations for Interregional Offshore Wind](/research/Project_04_DOE_Offshore/)**  
