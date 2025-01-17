@@ -14,7 +14,8 @@ The first project in my Ph.D. career. It is to sell a *closed-loop predict-then-
 The ultimate objective is to minimize the operating cost.
 
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. This implies that a more statistically accurate prediction may not lead to an economically better operating plan.
-![Alt Text for Screen Readers](/assets/images/Project_02_Fig03_Trend.jpeg)
+![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.jpeg)
+*Figure 1: This is a short caption or descriptive text.*
 
 To this end, we introduce the CPO idea, which emphasizes that:
 ![Closed-Loop Process](/assets/images/Project_02_Fig04_CPO.gif)
