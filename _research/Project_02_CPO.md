@@ -5,18 +5,18 @@ permalink: /research/Project_02_CPO/
 tags: [Predict Then Optimize, Unit Commitment, Prescriptive Analytics, Value-Oriented Prediction, Bi-Level Mixed-Integer Programming]
 ---
 
-This is the first project in my Ph.D. career. It aims to sell an idea called *closed-loop predict-then-optimize (CPO).* Traditionally, power system operations follow an *open-loop predict-then-optimize (OPO)* process:
+The first project in my Ph.D. career. It is to sell a *closed-loop predict-then-optimize (CPO)* idea. Power system operations generally follow an *open-loop predict-then-optimize (OPO)* process:
 ![Open-Loop Process](/assets/images/Project_02_Fig02_OPO.gif)
 
-1. **Predict** uncertainties, such as wind power availability, as accurately as possible.
-2. **Optimize** the operation plan (e.g., unit commitment) based on the predictions.
+1. **Predict** uncertainties, e.g., wind power, as accurately as possible.
+2. **Optimize** the operation plan, e.g., unit commitment, using the predictions.
 
 The ultimate objective is to minimize the operating cost.
 
-However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**:
+However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. This implies that a more statistically accurate prediction may not lead to an economically better operating plan.
 ![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.jpeg)
 
-As a result, the operating cost may suffer from the OPO approach, as OPO focuses solely on immediate prediction accuracy without considering the prediction's impact on operations. To address this, the CPO idea suggests:
+To this end, we introduce the CPO idea, which emphasizes that:
 ![Closed-Loop Process](/assets/images/Project_02_Fig04_CPO.gif)
 
 1. Feed the operational cost induced by the prediction back to the prediction phase.
