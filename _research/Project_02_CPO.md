@@ -18,7 +18,7 @@ The ultimate objective is to minimize the operating cost.
 <p align="center">
   <img src="/assets/images/Project_02_Fig02_OPO.gif" alt="Alt text" width="80%">
   <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
-    <figcaption style="font-style: italic;">Open-loop predict-then-optimize process.</figcaption>
+    <figcaption style="font-style: italic;">Open-loop predict-then-optimize process vs. closed-loop predict-then-optimize process.</figcaption>
 </p>
 
 The OPO process does make sense. However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**. *This implies that a more accurate prediction may not lead to a lower-cost operating plan.*
