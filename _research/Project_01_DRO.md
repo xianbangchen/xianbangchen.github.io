@@ -3,8 +3,6 @@ title: "Distributionally Robust Optimization-based Power System Operations"
 layout: single
 permalink: /research/Project_01_DRO/
 tags: [Distributionally Robust Optimization, Economic Dispatch]
-sidebar: false
-classes: wide
 ---
 
 <p align="center">
