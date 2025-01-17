@@ -11,12 +11,12 @@ This is the first project in my Ph.D. career. It aims to sell an idea called *cl
 1. **Predict** uncertainties, such as wind power availability, as accurately as possible.
 2. **Optimize** the operation plan (e.g., unit commitment) based on the predictions.
 
-The ultimate objective is to minimize overall operating costs.
+The ultimate objective is to minimize the operating cost.
 
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**:
 ![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.jpeg)
 
-As a result, the OPO approach can be **myopic** as it focuses solely on immediate prediction accuracy without considering the impact of predictions on operations. To address this, the CPO idea suggests:
+As a result, the operating cost may suffer from the OPO approach, as OPO focuses solely on immediate prediction accuracy without considering the prediction's impact on operations. To address this, the CPO idea suggests:
 ![Closed-Loop Process](/assets/images/Project_02_Fig04_Title.gif)
 
 1. Feed the operational cost induced by the prediction back to the prediction phase.
