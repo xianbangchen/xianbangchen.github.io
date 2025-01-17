@@ -23,14 +23,12 @@ The OPO process does make sense. However, due to the nonlinearity and complexity
 </p>
 
 To this end, we introduce the CPO idea, which emphasizes that:
+1. Feed the operating cost back to the prediction phase.
+2. Evaluate prediction quality via the operating cost instead of statistical accuracy.
 <p align="center">
   <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
       <figcaption style="font-style: italic;">Closed-loop predict-then-optimize process.</figcaption>
 </p>
-1. Feed the operating cost back to the prediction phase.
-2. Evaluate prediction quality via the operating cost instead of statistical accuracy.
-
-
 
 ## Related Papers
 
