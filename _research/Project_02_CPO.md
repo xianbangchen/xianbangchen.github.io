@@ -14,7 +14,7 @@ This is the first project in my Ph.D. career. It aims to sell an idea called *cl
 The ultimate objective is to minimize overall operating costs.
 
 However, due to the nonlinearity and complexity of power systems, the relationship between prediction accuracy and operating cost is **non-monotonic** and **asymmetric**:
-![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.gif)
+![Accuracy–Cost Relationship](/assets/images/Project_02_Fig03_Trend.jpeg)
 
 As a result, the OPO approach can be **myopic** as it focuses solely on immediate prediction accuracy without considering the impact of predictions on operations. To address this, the CPO idea suggests:
 ![Closed-Loop Process](/assets/images/Project_02_Fig04_Title.gif)
