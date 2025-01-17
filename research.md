@@ -19,15 +19,18 @@ _Assist cascaded hydropower fleets in adapting to modern power systems by enhanc
 ---
 
 **[Project 02: Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO/)**  
-[![Project 02 Thumbnail](/assets/images/Project_02_Fig01_Title.gif)](/research/Project_02_CPO/)
-_Close the open loop between the uncertainty prediction phase and the operation optimization phase so as to improve power system operational economics._ [Read More »](/research/Project_02_CPO/)
+<p align="center">
+  <img src="/assets/images/Project_02_Fig01_Title.gif" alt="Alt text" width="80%">
+</p>
+*Close the open loop between the uncertainty prediction phase and the operation optimization phase to improve operational economics.*_ [Read More »](/research/Project_02_CPO/)
 
 ---
 
 **[Project 01: Distributionally Robust Optimization-based Power System Operations](/research/Project_01_DRO/)**
-
-[![Project 01 Thumbnail](/assets/images/Project_01_Fig01_Title.gif)](/research/Project_01_DRO/)
-_Apply distributionally robust optimization for power system operations considering uncertainties._ [Read More »](/research/Project_01_DRO/)
+<p align="center">
+  <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="70%">
+</p>
+*Apply distributionally robust optimization for power system operations considering uncertainties.* [Read More »](/research/Project_01_DRO/)
 
 ---
 
