@@ -7,7 +7,7 @@ tags: [Distributionally Robust Optimization, Economic Dispatch]
 My first research project ever, and it is methodology-oriented.
  
 <p align="center">
-  <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="70%">
+  <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="50%">
 </p>
  
 This project applies distributionally robust optimization to economic dispatch in power systems, considering the uncertainties arising from variable renewable resources.
