@@ -21,8 +21,6 @@ However, due to the nonlinearity and complexity of power systems, the relationsh
       <figcaption style="font-style: italic;">Testing results on the IEEE 118-bus system. The dots represent specific testing samples, and the red line represents the trend line.</figcaption>
 </p>
 
-*Figure 1: This is a short caption or descriptive text.*
-
 To this end, we introduce the CPO idea, which emphasizes that:
 <p align="center">
   <img src="/assets/images/Project_02_Fig04_CPO.gif" alt="Alt text" width="80%">
