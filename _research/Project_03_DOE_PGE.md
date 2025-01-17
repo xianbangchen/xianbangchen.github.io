@@ -1,5 +1,5 @@
 ---
-title: "Project_03_DOE_PGE"
+title: "Cascaded Hydropower Operations"
 
 layout: single           # So it displays like a normal page
 

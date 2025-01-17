@@ -1,5 +1,5 @@
 ---
-title: "Project_01_DRO" 
+title: "Distributionally Robust Optimization-based Power System Operations" 
 
 layout: single           # So it displays like a normal page
 

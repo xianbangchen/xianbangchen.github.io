@@ -1,5 +1,5 @@
 ---
-title: "Project_04_DOE_Offshore"
+title: "Coordinated Operations for Interregional Offshore Wind"
 
 layout: single           # So it displays like a normal page
 

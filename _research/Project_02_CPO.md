@@ -1,5 +1,5 @@
 ---
-title: "Project_02_CPO.md"
+title: "Closed-Loop Predict-Then-Optimize"
 
 layout: single           # So it displays like a normal page
 
