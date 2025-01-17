@@ -14,13 +14,19 @@ This project applies distributionally robust optimization to economic dispatch i
 
 **Related Papers**
 
-[1]. Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, and Yanli Ye,  
-   “WKS-type distributionally robust optimisation for optimal sub-hourly look-ahead economic dispatch,”  
-   _IET Generation, Transmission & Distribution_, 2020.
+<ol style="margin:0; padding:0; list-style-position: outside;">
+  <li>
+    [1] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, and Yanli Ye,  
+    “WKS-type distributionally robust optimisation for optimal sub-hourly look-ahead economic dispatch,”  
+    <i>IET Generation, Transmission & Distribution</i>, 2020.
+  </li>
+  <li>
+    [2] Yang Liu, Xianbang Chen, Lei Wu, and Yanli Ye,  
+    “Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power,”  
+    <i>CSEE Journal of Power and Energy Systems</i>, 2022.
+  </li>
+</ol>
 
-[2]. Yang Liu, Xianbang Chen, Lei Wu, and Yanli Ye,  
-   “Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power,”  
-   _CSEE Journal of Power and Energy Systems_, 2022.
 
 
 
