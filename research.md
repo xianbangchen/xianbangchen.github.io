@@ -13,7 +13,7 @@ _Study market design and operational challenges for cross-regional transmission 
 ---
 
 **[Project 03: Cascaded Hydropower Operations](/research/Project_03_DOE_PGE/)**
-[![Project 03 Thumbnail](/assets/images/Project_03_Fig01_Title.jpeg)](/research/Project_03_DOE_PGE/)
+[![Project 03 Thumbnail](/assets/images/Project_03_Fig01_Title.jpg)](/research/Project_03_DOE_PGE/)
 _Assist cascaded hydropower fleets in adapting to modern power systems by enhancing their operations._ [Read More »](/research/Project_03_DOE_PGE/)
 
 ---
