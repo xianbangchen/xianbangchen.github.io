@@ -22,14 +22,17 @@ This project applies distributionally robust optimization to economic dispatch i
 ## References
 
 <ul style="list-style: none; margin: 0; padding: 0;">
-  <li>[1)] Author A, Author B.<br>
-  "Paper Title," <em>Journal</em>, Year. 
-  <a href="/assets/papers/paper1.pdf">[PDF »]</a>
+  <li style="margin-left: 2em;">
+    [1)] Author A, Author B.<br>
+    "Paper Title," <em>Journal</em>, Year.
+    <a href="/assets/papers/paper1.pdf">[PDF »]</a>
   </li>
 
-  <li>[2)] Author C, Author D.<br>
-  "Another Title," <em>Conference</em>, Year. 
-  <a href="/assets/papers/paper2.pdf">[PDF »]</a>
+  <li style="margin-left: 2em;">
+    [2)] Author C, Author D.<br>
+    "Another Title," <em>Conference</em>, Year.
+    <a href="/assets/papers/paper2.pdf">[PDF »]</a>
   </li>
 </ul>
+
 
