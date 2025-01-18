@@ -7,26 +7,34 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2575.2">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
-    span.s1 {-webkit-text-stroke: 0px #000000}
-    span.s2 {font-kerning: none}
-    span.s3 {text-decoration: underline ; font-kerning: none}
-    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #0000dc}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
     ul.ul1 {list-style-type: disc}
   </style>
 </head>
 <body>
 <ul class="ul1">
-  <li class="li1"><span class="s1"></span><span class="s2">{% if site.data.ui-text[site.locale].follow_label %}</span></li>
-  <li class="li1"><span class="s1"><b></b></span><span class="s2"><b>{{ site.data.ui-text[site.locale].follow_label }}</b><b></b></span></li>
-  <li class="li1"><span class="s1"></span><span class="s2">{% endif %} {% if site.footer.links %} {% for link in site.footer.links %} {% if link.label and link.url %}</span></li>
-  <li class="li2"><span class="s1"><a href="file:///Users/xianbangchen/Library/Mobile%20Documents/com~apple~CloudDocs/Beef/Personal_Site/xianbangchen.github.io/_includes/%7B%7B%20link.url%20%7D%7D"><span class="s3">{{ link.label }}</span></a></span></li>
-  <li class="li1"><span class="s1"></span><span class="s2">{% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %}</span></li>
-  <li class="li2"><span class="s1"><a href="file:///Users/xianbangchen/Library/Mobile%20Documents/com~apple~CloudDocs/Beef/Personal_Site/xianbangchen.github.io/_includes/%7B%25%20if%20site.atom_feed.path%20%25%7D%7B%7B%20site.atom_feed.path%20%7D%7D%7B%25%20else%20%25%7D%7B%7B%20'/feed.xml'%20%7C%20relative_url%20%7D%7D%7B%25%20endif%20%25%7D"><span class="s3">{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</span></a></span></li>
-  <li class="li1"><span class="s1"></span><span class="s2">{% endunless %}</span></li>
+  <li class="li1">&lt;div class="page__footer-follow"&gt;</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>&lt;ul class="social-icons"&gt;</li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% if site.data.ui-text[site.locale].follow_label %}</li>
+  <li class="li1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;strong&gt;{{ site.data.ui-text[site.locale].follow_label }}&lt;/strong&gt;&lt;/li&gt;</li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% endif %}</li>
+  <li class="li2"><br></li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% if site.footer.links %}</li>
+  <li class="li1"><span class="Apple-converted-space">      </span>{% for link in site.footer.links %}</li>
+  <li class="li1"><span class="Apple-converted-space">        </span>{% if link.label and link.url %}</li>
+  <li class="li1"><span class="Apple-converted-space">          </span>&lt;li&gt;&lt;a href="{{ link.url }}" rel="nofollow noopener noreferrer"&gt;&lt;i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"&gt;&lt;/i&gt; {{ link.label }}&lt;/a&gt;&lt;/li&gt;</li>
+  <li class="li1"><span class="Apple-converted-space">        </span>{% endif %}</li>
+  <li class="li1"><span class="Apple-converted-space">      </span>{% endfor %}</li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% endif %}</li>
+  <li class="li2"><br></li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% unless site.atom_feed.hide %}</li>
+  <li class="li1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"&gt;&lt;i class="fas fa-fw fa-rss-square" aria-hidden="true"&gt;&lt;/i&gt; {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}&lt;/a&gt;&lt;/li&gt;</li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% endunless %}</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>&lt;/ul&gt;</li>
+  <li class="li1">&lt;/div&gt;</li>
+  <li class="li2"><br></li>
+  <li class="li1">&lt;div class="page__footer-copyright"&gt;&amp;copy; {{ site.time | date: '%Y' }} &lt;a href="{{ site.copyright_url | default: site.url }}"&gt;{{ site.copyright | default: site.title }}&lt;/a&gt;. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} &lt;a href="https://jekyllrb.com" rel="nofollow"&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow"&gt;Minimal Mistakes&lt;/a&gt;.&lt;/div&gt;</li>
 </ul>
-<p class="p1"><span class="s2">© {{ site.time | date: '%Y'}}<span class="Apple-converted-space">  </span><a href="file:///Users/xianbangchen/Library/Mobile%20Documents/com~apple~CloudDocs/Beef/Personal_Site/xianbangchen.github.io/_includes/%7B%7B%20site.copyright_url%20%7C%20default:%20site.url%20%7D%7D"><span class="s4">{{ site.copyright | default: site.title }}</span></a> {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com/"><span class="s4">Jekyll</span></a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"><span class="s4">Minimal Mistakes</span></a>.</span></p>
 </body>
 </html>
