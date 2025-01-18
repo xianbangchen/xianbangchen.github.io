@@ -14,27 +14,27 @@
 </head>
 <body>
 <ul class="ul1">
-  <li class="li1">&lt;div class="page__footer-follow"&gt;</li>
-  <li class="li1"><span class="Apple-converted-space">  </span>&lt;ul class="social-icons"&gt;</li>
-  <li class="li1"><span class="Apple-converted-space">    </span>{% if site.data.ui-text[site.locale].follow_label %}</li>
-  <li class="li1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;strong&gt;{{ site.data.ui-text[site.locale].follow_label }}&lt;/strong&gt;&lt;/li&gt;</li>
+  <li class="li1">{% if site.data.ui-text[site.locale].follow_label %}</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>{{ site.data.ui-text[site.locale].follow_label }}</li>
+  <li class="li1">{% endif %}</li>
+  <li class="li2"><br></li>
+  <li class="li1">{% if site.footer.links %}</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>{% for link in site.footer.links %}</li>
+  <li class="li1"><span class="Apple-converted-space">    </span>{% if link.label and link.url %}</li>
+  <li class="li1"><span class="Apple-converted-space">      </span>&lt;a href="{{ link.url }}"&gt;{{ link.label }}&lt;/a&gt;</li>
   <li class="li1"><span class="Apple-converted-space">    </span>{% endif %}</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>{% endfor %}</li>
+  <li class="li1">{% endif %}</li>
   <li class="li2"><br></li>
-  <li class="li1"><span class="Apple-converted-space">    </span>{% if site.footer.links %}</li>
-  <li class="li1"><span class="Apple-converted-space">      </span>{% for link in site.footer.links %}</li>
-  <li class="li1"><span class="Apple-converted-space">        </span>{% if link.label and link.url %}</li>
-  <li class="li1"><span class="Apple-converted-space">          </span>&lt;li&gt;&lt;a href="{{ link.url }}" rel="nofollow noopener noreferrer"&gt;&lt;i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"&gt;&lt;/i&gt; {{ link.label }}&lt;/a&gt;&lt;/li&gt;</li>
-  <li class="li1"><span class="Apple-converted-space">        </span>{% endif %}</li>
-  <li class="li1"><span class="Apple-converted-space">      </span>{% endfor %}</li>
-  <li class="li1"><span class="Apple-converted-space">    </span>{% endif %}</li>
+  <li class="li1">{% unless site.atom_feed.hide %}</li>
+  <li class="li1"><span class="Apple-converted-space">  </span>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</li>
+  <li class="li1">{% endunless %}</li>
   <li class="li2"><br></li>
-  <li class="li1"><span class="Apple-converted-space">    </span>{% unless site.atom_feed.hide %}</li>
-  <li class="li1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"&gt;&lt;i class="fas fa-fw fa-rss-square" aria-hidden="true"&gt;&lt;/i&gt; {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}&lt;/a&gt;&lt;/li&gt;</li>
-  <li class="li1"><span class="Apple-converted-space">    </span>{% endunless %}</li>
-  <li class="li1"><span class="Apple-converted-space">  </span>&lt;/ul&gt;</li>
-  <li class="li1">&lt;/div&gt;</li>
+  <li class="li1">© {{ site.time | date: '%Y'}}<span class="Apple-converted-space"> </span></li>
+  <li class="li1">{{ site.copyright | default: site.title }}</li>
   <li class="li2"><br></li>
-  <li class="li1">&lt;div class="page__footer-copyright"&gt;&amp;copy; {{ site.time | date: '%Y' }} &lt;a href="{{ site.copyright_url | default: site.url }}"&gt;{{ site.copyright | default: site.title }}&lt;/a&gt;. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} &lt;a href="https://jekyllrb.com" rel="nofollow"&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow"&gt;Minimal Mistakes&lt;/a&gt;.&lt;/div&gt;</li>
+  <li class="li1">&lt;!-- Customize or remove the next line if you want to remove "Powered by Jekyll &amp; Minimal Mistakes" --&gt;</li>
+  <li class="li1">{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} Jekyll &amp; Minimal Mistakes.</li>
 </ul>
 </body>
 </html>
