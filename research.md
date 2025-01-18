@@ -29,7 +29,7 @@ author_profile: true
 **[Project 02: Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO/)**  
 <p align="center">
   <a href="/research/Project_02_CPO/">
-  <img src="/assets/images/Project_02_Fig01_Title.gif" alt="Alt text" width="80%">
+  <img src="/assets/images/Project_02_Fig01_Title.gif" alt="Alt text" width="90%">
 </a>
 </p>
 *Close the open loop between the uncertainty prediction phase and the operation optimization phase to improve operational economics.* [Read More »](/research/Project_02_CPO/)
