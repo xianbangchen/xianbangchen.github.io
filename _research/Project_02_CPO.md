@@ -31,8 +31,11 @@ To this end, we are selling you the CPO idea, which features that:
 1. It feeds the operating cost back to the prediction phase.
 2. The predictor training evaluates prediction quality via operating costs rather than statistical accuracy criterion (e.g., MAPE).
 
-**Related Papers**
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+    <li style="padding-left: 2em; text-indent: -2.8em;">
+<strong>Related Papers</strong>
+    </li>
+    
   <li style="padding-left: 2em; text-indent: -1.5em;">
     [1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," <em>IEEE Transactions on Power Systems</em>, 2021.
     <a href="/assets/papers/Project_02_Paper_01.pdf">[PDF »]</a>
