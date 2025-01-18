@@ -20,33 +20,29 @@ author_profile: true
 **Peer-Reviewed Published Works**
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
-    [010] Xianbang Chen, Yikui Liu, Lei Wu. "Towards Improving Unit Commitment Economics: An Add-On Tailor for Renewable Energy and Reserve Predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
+    [009] Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-On tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
   </li>
   
     <li style="padding-left: 2em; text-indent: -2.8em;">
-    [009] Yikui Liu, Xianbang Chen, Neng Fan, Zhechong Zhao, Lei Wu. "Stochastic day-ahead operation of cascaded hydropower systems with Bayesian neural network-based scenario generation: A Portland General Electric system study," <em>International Journal of Electrical Power & Energy Systems</em>, 2023.
+    [008] Yikui Liu, Xianbang Chen, Neng Fan, Zhechong Zhao, Lei Wu. "Stochastic day-ahead operation of cascaded hydropower systems with Bayesian neural network-based scenario generation: A Portland General Electric system study," <em>International Journal of Electrical Power & Energy Systems</em>, 2023.
   </li>
   
     <li style="padding-left: 2em; text-indent: -2.8em;">
-    [008] Jiayu Wu, Yang Liu, Xianbang Chen, Changhao Wang, Wenfeng Li. "Data-driven adjustable robust Day-ahead economic dispatch strategy considering uncertainties of wind power generation and electric vehicles," <em>International Journal of Electrical Power & Energy Systems</em>, 2022.
+    [007] Jiayu Wu, Yang Liu, Xianbang Chen, Changhao Wang, Wenfeng Li. "Data-driven adjustable robust day-ahead economic dispatch strategy considering uncertainties of wind power generation and electric vehicles," <em>International Journal of Electrical Power & Energy Systems</em>, 2022.
   </li>
   
     <li style="padding-left: 2em; text-indent: -2.8em;">
-    [007] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven Economic Improvement for Network-constrained Unit Commitment: A Closed-loop Predict-and-optimize Framework," <em>IEEE Transactions on Power Systems</em>, 2021.
+    [006] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," <em>IEEE Transactions on Power Systems</em>, 2021.
   </li>
   
     <li style="padding-left: 2em; text-indent: -2.8em;">
-    [006] Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye. "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," <em>CSEE Journal of Power and Energy Systems</em>, 2021.
-  </li>
-  
-    <li style="padding-left: 2em; text-indent: -2.8em;">
-    [005] Xianbang Chen, Yang Liu, Bin Li. "Adjustable robust optimization in enabling optimal day-ahead economic dispatch of CCHP-MG considering uncertainties of wind-solar power and electric vehicle," <em>Journal of Industrial and Management Optimization</em>, 2021.
+    [005] Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye. "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," <em>CSEE Journal of Power and Energy Systems</em>, 2021.
   </li>
   
     <li style="padding-left: 2em; text-indent: -2.8em;">
     [004] Xianbang Chen, Yang Liu, Bin Li. "Adjustable robust optimization in enabling optimal day-ahead economic dispatch of CCHP-MG considering uncertainties of wind-solar power and electric vehicle," <em>Journal of Industrial and Management Optimization</em>, 2021.
   </li>
-  
+    
     <li style="padding-left: 2em; text-indent: -2.8em;">
     [003] Yang Liu, Xiang Li, Xianbang Chen, Xi Wang, Huaqiang Li. "High‐performance machine learning for large‐scale data classification considering class imbalance," <em>Scientific Programming</em>, 2020.
   </li>
