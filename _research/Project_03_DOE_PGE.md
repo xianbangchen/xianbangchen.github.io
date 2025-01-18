@@ -15,7 +15,7 @@ The project uses [PGE's Pelton Round Butte system](https://lowimpacthydro.org/li
 
 </p>
 
-A key deliverable of this project is a future value function that quantifies hydropower generation (MWh) from carryover water storage (Mm³). This function is user-friendly and interpretable. Given this function, hydropower operators can view the complete future value surface and access specific results with a simple click.
+A key deliverable of this project is a future value function that quantifies the hydropower generation (MWh) that water storage (Mm³) can provide in the future, known as *future value*. This function is user-friendly and interpretable. Given this function, hydropower operators can view the complete future value surface and access specific results with a simple click.
 <p align="center">
   <img src="/assets/images/Project_03_Fig03_3D.gif" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">Illustration of the visualized future value function.</figcaption>
