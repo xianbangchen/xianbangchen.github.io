@@ -8,6 +8,7 @@ author_profile: true
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Under-Review Works</strong>
     </li>
+</ul>
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
@@ -24,6 +25,7 @@ author_profile: true
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Peer-Reviewed Published Works</strong>
     </li>
+</ul>
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
