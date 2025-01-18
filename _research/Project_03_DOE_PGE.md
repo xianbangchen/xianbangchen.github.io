@@ -44,12 +44,7 @@ The medium-term planning method is built upon deep reinforcement learning, offer
 </p>
 
 
-<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
-    <li style="padding-left: 0em; text-indent: -0em;">
 <strong>Related Papers</strong>
-    </li>
-</ul>
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 1.8em; text-indent: -1.5em;">
     <span style="font-family: monospace;">[1]</span> Xianbang Chen, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>arxiv</em>, 2025.
