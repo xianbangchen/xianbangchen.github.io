@@ -3,7 +3,7 @@ title: "Selected Research Projects"
 layout: single
 collection: research
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 **[Project 04: Multi-Area Coordinated Operations Considering Cross-Regional Offshore Wind Participation](/research/Project_04_DOE_Offshore/)**  

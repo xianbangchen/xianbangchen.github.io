@@ -2,7 +2,7 @@
 title: ""
 layout: single
 permalink: /news/
-author_profile: true
+author_profile: false
 ---
 <strong>News</strong>
 
