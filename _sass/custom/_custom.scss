@@ -6,3 +6,10 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.author__avatar img {
+  border-radius: 0;          // Removes circle corners => box shape
+  max-width: 200px;          // Adjust as desired for size
+  display: block;
+  margin: 0 auto;            // Centers the image horizontally
+}
