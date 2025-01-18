@@ -6,7 +6,7 @@ tags: [Cascaded Hydropower, Reinforcement Learning, Multi-Parametric Programming
 ---
 This project is supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/nepa/articles/cx-101766-exploring-multidimensional-spatial-temporal-hydropower-operational).
 
-We collaborate with the University of Arizona team—led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)—as well as [Portland General Electric (PGE)](https://portlandgeneral.com/about) to assist the cascaded hydropower fleets in achieving greater operational efficiency in modern power systems.
+We collaborate with the University of Arizona team (led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)) and [Portland General Electric (PGE)](https://portlandgeneral.com/about) to assist cascaded hydropower fleets in achieving greater operational efficiency in modern power systems.
 
 The project uses [PGE's Pelton Round Butte system](https://lowimpacthydro.org/lihi-certificate-25-pelton-round-butte-project-oregon/) as the real-world case.
 <p align="center">
@@ -15,29 +15,36 @@ The project uses [PGE's Pelton Round Butte system](https://lowimpacthydro.org/li
 
 </p>
 
-A key deliverable of this project is a future value function that quantifies hydropower generation (MWh) from carryover water storage (Mm^3^). This function is user-friendly and interpretable. Given this function, hydropower operators can view the complete future value surface and access specific results with a simple click.
+A key deliverable of this project is a future value function that quantifies hydropower generation (MWh) from carryover water storage (Mm³). This function is user-friendly and interpretable. Given this function, hydropower operators can view the complete future value surface and access specific results with a simple click.
 <p align="center">
   <img src="/assets/images/Project_03_Fig03_3D.gif" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">Illustration of the visualized future value function.</figcaption>
 
 </p>
 
+PGE 
+
+Another key deliverable of this project is a medium-term planning method tailored for renewable-integrated cascaded hydropower systems.
+
 <p align="center">
   <img src="/assets/images/Project_03_Fig04_VCHP.jpg" alt="Alt text" width="100%">
-        <figcaption style="font-style: italic;"> Illustration of the Pelton Round Butte Project integrated with variable renewables..</figcaption>
+        <figcaption style="font-style: italic;"> Illustration of the Pelton Round Butte Project integrated with variable renewables.</figcaption>
 
 </p>
+
+The medium-term planning method uses deep reinforcement learning (DRL), offering two key advantages:  
+1. It uses short-term contextual inputs, such as day-ahead electricity prices and renewable forecasts, as inputs to determine medium-term planning strategy.  
+2. The strategy's quality is measured by its ability to improve profits in short-term operations.
+
+As you can see, this medium-term planning method involves the [closed-loop predict-then-optimize idea.](https://xianbangchen.github.io/research/Project_02_CPO/)
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig05_OPO.jpg" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">The existing open-loop relationship between mid-term planning and short-term operations.</figcaption>
-
 </p>
-
 <p align="center">
   <img src="/assets/images/Project_03_Fig06_CPO.jpg" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">The presented closed-loop relationship between mid-term planning and short-term operations.</figcaption>
-
 </p>
 
 
