@@ -9,7 +9,7 @@ author_profile: true
 **[Project 04: Multi-Area Coordinated Operations Considering Cross-Regional Offshore Wind Participation](/research/Project_04_DOE_Offshore/)**  
 <p align="center">
 <a href="/research/Project_04_DOE_Offshore/">
-  <img src="/assets/images/Project_04_Fig01_Title.jpg" alt="Alt text" width="70%">
+  <img src="/assets/images/Project_04_Fig01_Title.jpg" alt="Alt text" width="90%">
 </a>
 </p>
 *Address the operational challenges of cross-regional transmission systems caused by connecting offshore wind to multiple regions.* [Read More »](/research/Project_04_DOE_Offshore/)
