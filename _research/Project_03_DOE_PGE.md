@@ -22,8 +22,6 @@ A key deliverable of this project is an analytical future value function that qu
 
 </p>
 
-PGE 
-
 Another key deliverable is a medium-term planning approach designed for renewable-integrated cascaded hydropower systems.
 
 <p align="center">
