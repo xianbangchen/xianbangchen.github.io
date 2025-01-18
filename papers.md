@@ -37,6 +37,5 @@ author_profile: true
     <br><br>
     [001] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, Yanli Ye. "WKS‐type distributionally robust optimisation for optimal sub‐hourly look‐ahead economic dispatch," <em>IET Generation, Transmission & Distribution</em>, 2020.
 
-
   </li>
 </ul>
