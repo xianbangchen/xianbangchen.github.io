@@ -24,7 +24,7 @@ A key deliverable of this project is an analytical future value function that qu
 
 PGE 
 
-Another key deliverable of this project is a medium-term planning method tailored for renewable-integrated cascaded hydropower systems.
+Another key deliverable is a medium-term planning approach designed for renewable-integrated cascaded hydropower systems.
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig04_VCHP.jpg" alt="Alt text" width="100%">
@@ -32,9 +32,9 @@ Another key deliverable of this project is a medium-term planning method tailore
 
 </p>
 
-The medium-term planning method uses deep reinforcement learning (DRL), offering two key advantages:  
-1. It uses short-term contextual inputs, such as day-ahead electricity prices and renewable forecasts, as inputs to determine medium-term planning strategy.  
-2. The strategy's quality is measured by its ability to improve profits in short-term operations.
+The medium-term planning method is built upon deep reinforcement learning, offering two key advantages:  
+1. It leverages short-term contextual information, such as day-ahead electricity prices and renewable forecasts, to determine the medium-term planning strategy.  
+2. The quality of the medium-term planning strategy is measured by its ability to improve profits in short-term operations.
 
 As you can see, this medium-term planning method involves the [closed-loop predict-then-optimize idea.](https://xianbangchen.github.io/research/Project_02_CPO/)
 
