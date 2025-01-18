@@ -6,15 +6,16 @@ tags: [Cascaded Hydropower, Reinforcement Learning, Multi-Parametric Programming
 ---
 This project is supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/nepa/articles/cx-101766-exploring-multidimensional-spatial-temporal-hydropower-operational).
 
-We collaborate with the University of Arizona team—led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)—as well as [Portland General Electric](https://portlandgeneral.com/about) to explore how cascaded hydropower systems can be optimized to achieve greater operational efficiency in modern power systems.
+We collaborate with the University of Arizona team—led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)—as well as [Portland General Electric (PGE)](https://portlandgeneral.com/about) to assist the cascaded hydropower fleets in achieving greater operational efficiency in modern power systems.
 
-
+The project uses [PGE's Pelton Round Butte system](https://lowimpacthydro.org/lihi-certificate-25-pelton-round-butte-project-oregon/) as the real-world case.
 <p align="center">
   <img src="/assets/images/Project_03_Fig02_CHP.jpg" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">Illustration of the Pelton Round Butte Project.</figcaption>
 
 </p>
 
+A key deliverable of this project is a future value function that quantifies hydropower generation (MWh) from carryover water storage (Mm^3^). This function is user-friendly and interpretable. Given this function, hydropower operators can view the complete future value surface and access specific results with a simple click.
 <p align="center">
   <img src="/assets/images/Project_03_Fig03_3D.gif" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">Illustration of the visualized future value function.</figcaption>
