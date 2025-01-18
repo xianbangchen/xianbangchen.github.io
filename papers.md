@@ -5,7 +5,6 @@ permalink: /papers/
 author_profile: true
 ---
 **Under-Review Works**
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
     [002] Xianbang Chen, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>arXiv preprint arXiv:2501.04839</em>, 2025.
