@@ -6,9 +6,9 @@ permalink: /research/
 author_profile: true
 ---
 
-**[Project 04: Coordinated Operations for Interregional Offshore Wind](/research/Project_04_DOE_Offshore/)**  
-[![Project 04 Thumbnail](/assets/images/Project_04_Fig01_Title.gif)](/research/Project_04_DOE_Offshore/)
-_Study market design and operational challenges for cross-regional transmission systems with offshore wind power._ [Read More »](/research/Project_04_DOE_Offshore/)
+**[Project 04: Multi-Area Coordinated Operations Considering Cross-Regional Offshore Wind Participation](/research/Project_04_DOE_Offshore/)**  
+[![Project 04 Thumbnail](/assets/images/Project_04_Fig01_Title.jpg)](/research/Project_04_DOE_Offshore/)
+*Address the operational challenges of cross-regional transmission systems caused by connecting offshore wind to multiple regions.* [Read More »](/research/Project_04_DOE_Offshore/)
 
 ---
 
