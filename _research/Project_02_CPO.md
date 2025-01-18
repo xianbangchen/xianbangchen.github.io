@@ -39,13 +39,13 @@ To this end, we are selling you the CPO idea, which features that:
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 2em; text-indent: -1.5em;">
-    [1] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," <em>IEEE Transactions on Power Systems</em>, 2021.
+    <span style="font-family: monospace;">[1]</span> Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven economic improvement for network-constrained unit commitment: A closed-loop predict-and-optimize framework," <em>IEEE Transactions on Power Systems</em>, 2021.
     <a href="/assets/papers/Project_02_Paper_01.pdf">[PDF »]</a>
     <a href="https://github.com/asxadf/Closed_Loop_NCUC_Dataset">[Code »]</a>
   </li>
 
   <li style="padding-left: 2em; text-indent: -1.5em;">
-    [2] Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2022.
+    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2022.
     <a href="/assets/papers/Project_02_Paper_02.pdf">[PDF »]</a>
   </li>
 </ul>
