@@ -18,7 +18,7 @@ author_profile: true
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2023-12]</span> I delivered a presentation at the 2023 ECE Research Expo, Stevens Institute of Technology, Hoboken, NJ, and was honored with First Place. Thank you, Stevens! <a href="/assets/slides/2023-10-Informs_Slides.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2023-12]</span> I delivered a presentation at the 2023 ECE Research Expo, Stevens Institute of Technology, Hoboken, NJ, and was honored with First Place. Thank you, Stevens! <a href="/assets/slides/2023-12-ECE_Exp.pdf">[Slides »]</a>
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
