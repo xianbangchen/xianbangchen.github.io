@@ -41,11 +41,11 @@ author_profile: true
   </li>
   
     <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2023-04]</span> I am grateful to receive the Graduate Conference Funding from Stevens Institute of Technology—my first funding ever! Thank you, Stevens!
+    <span style="font-family: monospace;">[2023-03]</span> I am grateful to receive the Graduate Conference Funding from Stevens Institute of Technology—my first funding ever! Thank you, Stevens!
   </li>
    
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2021-12]</span> I had the honor to deliver a presentation at the Operations Research Live Talk in China. <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2021-12]</span> I had the honor of delivering a presentation at the Operations Research Live Talk in China. <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
   </li>
   
      <li style="padding-left: 5.6em; text-indent: -5.65em;">
