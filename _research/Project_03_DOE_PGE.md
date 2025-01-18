@@ -8,24 +8,35 @@ This project is supported by the [U.S. Department of Energy (DOE)](https://www.e
 
 We collaborate with the University of Arizona team—led by [Prof. Neng Fan](https://sie.engineering.arizona.edu/faculty-staff/faculty/neng-fan) and [Dr. Zhong](https://zhimingzhong1.github.io/zhongz.github.io/)—as well as [Portland General Electric](https://portlandgeneral.com/about) to explore how cascaded hydropower systems can be optimized to achieve greater operational efficiency in modern power systems.
 
+
 <p align="center">
   <img src="/assets/images/Project_03_Fig02_CHP.jpg" alt="Alt text" width="100%">
+        <figcaption style="font-style: italic;">Illustration of the Pelton Round Butte Project.</figcaption>
+
 </p>
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig03_3D.gif" alt="Alt text" width="100%">
+        <figcaption style="font-style: italic;">Illustration of the visualized future value function.</figcaption>
+
 </p>
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig04_VCHP.jpg" alt="Alt text" width="100%">
+        <figcaption style="font-style: italic;"> Illustration of the Pelton Round Butte Project integrated with variable renewables..</figcaption>
+
 </p>
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig05_OPO.jpg" alt="Alt text" width="100%">
+        <figcaption style="font-style: italic;">The existing open-loop relationship between mid-term planning and short-term operations.</figcaption>
+
 </p>
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig06_CPO.jpg" alt="Alt text" width="100%">
+        <figcaption style="font-style: italic;">The presented closed-loop relationship between mid-term planning and short-term operations.</figcaption>
+
 </p>
 
 
