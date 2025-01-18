@@ -9,7 +9,7 @@ author_profile: true
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2024-12]</span> I successfully defended my Ph.D. thesis! Grateful for the invaluable guidance of Professor Wu throughout this journey. <a href="/assets/slides/2024-12-final_thesis.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2024-12]</span> I successfully defended my Ph.D. thesis! Grateful for the invaluable guidance of Professor Lei Wu throughout this journey. <a href="/assets/slides/2024-12-final_thesis.pdf">[Slides »]</a>
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
@@ -49,7 +49,7 @@ author_profile: true
   </li>
   
      <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from the Stevens Institute of Technology. Grateful for Professor Wu's trust and support! <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from the Stevens Institute of Technology. Grateful for Professor Lei Wu's trust and support!
   </li>
   
 </ul>
