@@ -13,7 +13,7 @@ My first research project ever, and it is methodology-oriented.
 This project applies distributionally robust optimization to economic dispatch in power systems, considering the uncertainties arising from variable renewable resources.
 
 
-<ul style="font-size: 90%; list-style: none; margin: 0; padding: 0;">
+<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Related Papers</strong>
     </li>

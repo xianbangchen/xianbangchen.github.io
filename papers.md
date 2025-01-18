@@ -4,7 +4,7 @@ layout: single
 permalink: /papers/
 author_profile: true
 ---
-<ul style="font-size: 90%; list-style: none; margin: 0; padding: 0;">
+<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Under-Review Works</strong>
     </li>
@@ -21,7 +21,7 @@ author_profile: true
   </li>
 </ul>  
   
-<ul style="font-size: 90%; list-style: none; margin: 0; padding: 0;">
+<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Peer-Reviewed Published Works</strong>
     </li>

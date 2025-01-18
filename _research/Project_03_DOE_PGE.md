@@ -44,7 +44,7 @@ The medium-term planning method is built upon deep reinforcement learning, offer
 </p>
 
 
-<ul style="font-size: 90%; list-style: none; margin: 0; padding: 0;">
+<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Related Papers</strong>
     </li>

@@ -31,7 +31,7 @@ To this end, we are selling you the CPO idea, which features that:
 1. It feeds the operating cost back to the prediction phase.
 2. The predictor training evaluates prediction quality via operating costs rather than statistical accuracy criterion (e.g., MAPE).
 
-<ul style="font-size: 90%; list-style: none; margin: 0; padding: 0;">
+<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
 <strong>Related Papers</strong>
     </li>
