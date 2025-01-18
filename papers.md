@@ -19,6 +19,10 @@ author_profile: true
 **Peer-Reviewed Published Works**
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
+Peer-Reviewed Published Works
+    </li>
+
+    <li style="padding-left: 2em; text-indent: -2.8em;">
     [009] <strong>Xianbang Chen</strong>, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-On tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
   </li>
   
