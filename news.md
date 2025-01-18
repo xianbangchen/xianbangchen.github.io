@@ -14,7 +14,7 @@ author_profile: true
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2024-06]</span> I had the privilege of delivering a presentation at Sichuan University in Chengdu, China. <a href="/assets/slides/2024-06-SCU_2024.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2024-06]</span> I had the honor of delivering a presentation at Sichuan University in Chengdu, China. <a href="/assets/slides/2024-06-SCU_2024.pdf">[Slides »]</a>
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
@@ -30,7 +30,7 @@ author_profile: true
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2023-07]</span> I had the privilege of delivering a presentation at the 2023 IEEE Power & Energy Society General Meeting in Orlando, Florida. <a href="/assets/slides/2023-07-23PESGM0568.pdf">[Slides »]</a> <a href="/assets/slides/2023-07-Poster_GM_2023.pdf">[Poster »]</a>
+    <span style="font-family: monospace;">[2023-07]</span> I had the honor of delivering a presentation at the 2023 IEEE Power & Energy Society General Meeting in Orlando, Florida. <a href="/assets/slides/2023-07-23PESGM0568.pdf">[Slides »]</a> <a href="/assets/slides/2023-07-Poster_GM_2023.pdf">[Poster »]</a>
   </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
@@ -46,7 +46,7 @@ author_profile: true
   </li>
    
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2021-12]</span> I had the opportunity to deliver a presentation at the Operations Research Live Talk in China. <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
+    <span style="font-family: monospace;">[2021-12]</span> I had the honor to deliver a presentation at the Operations Research Live Talk in China. <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
   </li>
   
      <li style="padding-left: 5.6em; text-indent: -5.65em;">
