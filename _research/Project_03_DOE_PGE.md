@@ -34,9 +34,7 @@ Another key deliverable is a medium-term planning approach designed for renewabl
 
 The medium-term planning method is built upon deep reinforcement learning, offering two key advantages:  
 1. It leverages short-term contextual information, such as day-ahead electricity prices and renewable forecasts, to determine the medium-term planning strategy.  
-2. The quality of the medium-term planning strategy is measured by its ability to improve profits in short-term operations.
-
-As you can see, this medium-term planning method involves the [closed-loop predict-then-optimize idea.](https://xianbangchen.github.io/research/Project_02_CPO/)
+2. The quality of the medium-term planning strategy is measured by its ability to improve profits in short-term operations. That is, this method involves the [closed-loop predict-then-optimize idea.](https://xianbangchen.github.io/research/Project_02_CPO/)
 
 <p align="center">
   <img src="/assets/images/Project_03_Fig05_OPO.jpg" alt="Alt text" width="100%">
