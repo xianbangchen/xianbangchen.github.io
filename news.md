@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
-    <li style="padding-left: 2em; text-indent: -0em;">
+    <li style="padding-left: 0em; text-indent: -0em;">
 <strong>Under-Review Works</strong>
     </li>
 </ul>

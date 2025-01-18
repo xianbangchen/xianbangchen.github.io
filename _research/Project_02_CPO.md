@@ -32,7 +32,7 @@ To this end, we are selling you the CPO idea, which features that:
 2. The predictor training evaluates prediction quality via operating costs rather than statistical accuracy criterion (e.g., MAPE).
 
 <ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
-    <li style="padding-left: 2em; text-indent: -2.8em;">
+    <li style="padding-left: 0em; text-indent: 0em;">
 <strong>Related Papers</strong>
     </li>
 </ul>
