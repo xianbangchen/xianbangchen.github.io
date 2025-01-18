@@ -7,7 +7,10 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Center and resize author avatar */
 .author__avatar img {
-  max-width: 250px;          // Adjust as desired for size
-  margin: 0 auto;            // Centers the image horizontally
+  display: block;
+  margin: 0 auto;     // center horizontally
+  max-width: 150px;   // or set a fixed width like 150px
+  border-radius: 50%; // optional: keep it circular
 }
