@@ -4,7 +4,7 @@ layout: single
 permalink: /papers/
 author_profile: true
 ---
-# Under-Review Works
+**Under-Review Works**
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 2em; text-indent: -2.5em;">
@@ -13,7 +13,10 @@ author_profile: true
     [001] Xianbang Chen, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>arXiv preprint arXiv:2409.09876</em>, 2024.
     
   </li>
-# Peer-Reviewed Published Works
+</ul>  
+  
+**Peer-Reviewed Published Works**
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 2em; text-indent: -2.5em;">
     [010] Xianbang Chen, Yikui Liu, Lei Wu. "Towards Improving Unit Commitment Economics: An Add-On Tailor for Renewable Energy and Reserve Predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
     <br><br>
@@ -36,3 +39,4 @@ author_profile: true
     [001] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, Yanli Ye. "WKS‐type distributionally robust optimisation for optimal sub‐hourly look‐ahead economic dispatch," <em>IET Generation, Transmission & Distribution</em>, 2020.
 
   </li>
+</ul>
