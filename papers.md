@@ -16,17 +16,23 @@ author_profile: true
 
 # Peer-Reviewed Published Works
   <li style="padding-left: 2em; text-indent: -1.5em;">
-    [007] Xianbang Chen, Yikui Liu, Lei Wu. "Towards Improving Unit Commitment Economics: An Add-On Tailor for Renewable Energy and Reserve Predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
+    [010] Xianbang Chen, Yikui Liu, Lei Wu. "Towards Improving Unit Commitment Economics: An Add-On Tailor for Renewable Energy and Reserve Predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
 
-    [006] Yikui Liu, Xianbang Chen, Neng Fan, Zhechong Zhao, Lei Wu. "Stochastic day-ahead operation of cascaded hydropower systems with Bayesian neural network-based scenario generation: A Portland General Electric system study," <em>International Journal of Electrical Power & Energy Systems</em>, 2023.
+    [009] Yikui Liu, Xianbang Chen, Neng Fan, Zhechong Zhao, Lei Wu. "Stochastic day-ahead operation of cascaded hydropower systems with Bayesian neural network-based scenario generation: A Portland General Electric system study," <em>International Journal of Electrical Power & Energy Systems</em>, 2023.
 
-    [005] Jiayu Wu, Yang Liu, Xianbang Chen, Changhao Wang, Wenfeng Li. "Data-driven adjustable robust Day-ahead economic dispatch strategy considering uncertainties of wind power generation and electric vehicles," <em>International Journal of Electrical Power & Energy Systems</em>, 2022.
+    [008] Jiayu Wu, Yang Liu, Xianbang Chen, Changhao Wang, Wenfeng Li. "Data-driven adjustable robust Day-ahead economic dispatch strategy considering uncertainties of wind power generation and electric vehicles," <em>International Journal of Electrical Power & Energy Systems</em>, 2022.
 
-    [003] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven Economic Improvement for Network-constrained Unit Commitment: A Closed-loop Predict-and-optimize Framework," <em>IEEE Transactions on Power Systems</em>, 2021.
+    [007] Xianbang Chen, Yafei Yang, Yikui Liu, Lei Wu. "Feature-driven Economic Improvement for Network-constrained Unit Commitment: A Closed-loop Predict-and-optimize Framework," <em>IEEE Transactions on Power Systems</em>, 2021.
     
-    [004] Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye. "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," <em>CSEE Journal of Power and Energy Systems</em>, 2021.
+    [006] Yang Liu, Xianbang Chen, Lei Wu, Yanli Ye. "Distributionally robust economic dispatch using IDM for integrated electricity-heat-gas microgrid considering wind power," <em>CSEE Journal of Power and Energy Systems</em>, 2021.
 
-    [002] Xianbang Chen, Yang Liu, Bin Li. "Adjustable robust optimization in enabling optimal day-ahead economic dispatch of CCHP-MG considering uncertainties of wind-solar power and electric vehicle," <em>Journal of Industrial and Management Optimization</em>, 2021.
+    [005] Xianbang Chen, Yang Liu, Bin Li. "Adjustable robust optimization in enabling optimal day-ahead economic dispatch of CCHP-MG considering uncertainties of wind-solar power and electric vehicle," <em>Journal of Industrial and Management Optimization</em>, 2021.
+
+    [004] Xianbang Chen, Yang Liu, Bin Li. "Adjustable robust optimization in enabling optimal day-ahead economic dispatch of CCHP-MG considering uncertainties of wind-solar power and electric vehicle," <em>Journal of Industrial and Management Optimization</em>, 2021.
+
+    [003] Yang Liu, Xiang Li, Xianbang Chen, Xi Wang, Huaqiang Li. "High‐performance machine learning for large‐scale data classification considering class imbalance," <em>Scientific Programming</em>, 2020.
+
+    [002] Yang Liu, Xianbang Chen, Lixiong Xu, Huaqiang Li, Maozhen Li. "A resource aware parallelized back propagation neural network in enabling efficient large-scale digital health data processing," <em>IEEE Access</em>, 2019.
 
     [001] Yang Liu, Xianbang Chen, Bin Li, Huaqiang Li, Yanli Ye. "WKS‐type distributionally robust optimisation for optimal sub‐hourly look‐ahead economic dispatch," <em>IET Generation, Transmission & Distribution</em>, 2020.
 
