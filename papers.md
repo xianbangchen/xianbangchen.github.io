@@ -4,12 +4,7 @@ layout: single
 permalink: /papers/
 author_profile: true
 ---
-<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
-    <li style="padding-left: 1.5em; text-indent: -0em;">
 <strong>Under-Review Works</strong>
-    </li>
-</ul>
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
     <span style="font-family: monospace;">[002]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>arXiv preprint arXiv:2501.04839</em>, 2025.
@@ -21,12 +16,7 @@ author_profile: true
   </li>
 </ul>  
   
-<ul style="font-size: 100%; list-style: none; margin: 0; padding: 0;">
-    <li style="padding-left: 1.5em; text-indent: -0em;">
 <strong>Peer-Reviewed Published Works</strong>
-    </li>
-</ul>
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 2em; text-indent: -2.8em;">
     <span style="font-family: monospace;">[009]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
