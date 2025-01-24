@@ -47,7 +47,12 @@ author_profile: false
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2021-12]</span> I had the honor of delivering a presentation at the Operations Research Live Talk in China. <a href="/assets/slides/2021-12-OR_Presentation.pdf">[Slides »]</a>
   </li>
-  
+
+       <li style="padding-left: 5.6em; text-indent: -5.65em;">
+    <span style="font-family: monospace;">[2020-08]</span>
+    I successfully defended my master's thesis! I am grateful for the invaluable mentoring of Professor Yang Liu.
+      </li>
+
      <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from the Stevens Institute of Technology. Grateful for Professor Lei Wu's trust and support!
   </li>
