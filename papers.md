@@ -7,19 +7,14 @@ author_profile: false
 <strong>Under-Review Works</strong>
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 3.05em; text-indent: -3.3em;">
-    <span style="font-family: monospace;">[002]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>IEEE Transactions on Sustainable Energy</em>, 2025.
-  </li>
-  
-    <li style="padding-left: 3.05em; text-indent: -3.3em;">
-    <span style="font-family: monospace;">[001]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>arXiv preprint arXiv:2409.09876</em>, 2024.
-    
+    <span style="font-family: monospace;">[001]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>arXiv preprint arXiv:2501.04839</em>, 2025.
   </li>
 </ul>  
   
 <strong>Peer-Reviewed Published Works</strong>
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
-	<li style="padding-left: 3.05em; text-indent: -3.3em;">
-    <span style="font-family: monospace;">[002]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>IEEE Transactions on Sustainable Energy</em>, 2025.
+    <li style="padding-left: 3.05em; text-indent: -3.3em;">
+    <span style="font-family: monospace;">[010]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>IEEE Transactions on Sustainable Energy</em>, 2025.
   </li>
 
     <li style="padding-left: 3.05em; text-indent: -3.3em;">
