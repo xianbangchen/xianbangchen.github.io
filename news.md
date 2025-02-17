@@ -7,6 +7,10 @@ author_profile: false
 <strong>News</strong>
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+   
+   <li style="padding-left: 5.6em; text-indent: -5.65em;">
+    <span style="font-family: monospace;">[2025-02]</span> I was invited to give a seminar talk at Stevens Institute of Technology. Thank you, Professor Kevin Lu! <a href="/assets/slides/2025-02-stevens_seminar.png">[Slides »]</a>
+  </li>
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2024-12]</span> I successfully defended my Ph.D. thesis! Grateful for the invaluable guidance of Professor Lei Wu throughout this journey. <a href="/assets/slides/2024-12-final_thesis.pdf">[Slides »]</a>
