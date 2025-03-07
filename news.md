@@ -9,7 +9,7 @@ author_profile: false
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
 
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-03]</span> I was honored to be recognized as an  <a href="/assets/images/ECE_Xianbang.pdf">[excellent reviewer]</a> for Energy Conversion and Economics. Thank you, Energy Conversion and Economics!
+    <span style="font-family: monospace;">[2025-03]</span> I was honored to be recognized as an  <a href="/assets/images/ECE_Xianbang.pdf">excellent reviewer</a> for Energy Conversion and Economics. Thank you, Energy Conversion and Economics!
 
  
   </li>
