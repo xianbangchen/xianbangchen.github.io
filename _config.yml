@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Xianbang Chen, Ph.D"
-  avatar           : /assets/images/bio-photo.png
+  avatar           : /assets/images/bio-photo.jpg
   links:
     - label: "Stevens Institute of Technology"
       icon: "fas fa-fw fa-university"
