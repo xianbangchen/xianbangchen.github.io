@@ -14,6 +14,10 @@ author_profile: false
 <strong>Peer-Reviewed Published Works</strong>
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 3.05em; text-indent: -3.3em;">
+    <span style="font-family: monospace;">[011]</span> Yaning Zhang, Yingmin Zhang, Yikui Liu, Lei Wu, <strong>Xianbang Chen</strong>. "Medium-term scheduling of cascade hydropower systems incorporating ecological constraints considering spawning demand of drift-spawning fishes," <em>Electric Power Systems Research</em>, 2025.
+  </li>
+
+    <li style="padding-left: 3.05em; text-indent: -3.3em;">
     <span style="font-family: monospace;">[010]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>IEEE Transactions on Sustainable Energy</em>, 2025.
   </li>
 
