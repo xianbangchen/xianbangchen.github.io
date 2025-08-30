@@ -40,7 +40,7 @@ To this end, we are selling you the CPO idea, which features that:
   </li>
 
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
-    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2022.
+    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Lei Wu. "Towards improving unit commitment economics: An add-on tailor for renewable energy and reserve predictions," <em>IEEE Transactions on Sustainable Energy</em>, 2024.
     <a href="/assets/papers/Project_02_Paper_02.pdf">[PDF »]</a>
   </li>
 </ul>
