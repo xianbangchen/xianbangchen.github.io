@@ -51,7 +51,7 @@ The medium-term planning method is built upon deep reinforcement learning, offer
     <a href="/assets/papers/Project_03_Paper_01.pdf">[PDF »]</a>
   </li>
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
-    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Neng Fan, Lei Wu. "*An operating profit-oriented medium-term planning method for renewable-integrated cascaded hydropower*," <em>Energy</em>, 2025.
+    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Neng Fan, Lei Wu. "An operating profit-oriented medium-term planning method for renewable-integrated cascaded hydropower," <em>Energy</em>, 2025.
     <a href="/assets/papers/Project_03_Paper_02.pdf">[PDF »]</a>
   </li>  
 

@@ -7,9 +7,8 @@ author_profile: false
 <strong>News</strong>
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
-
    <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-09]</span> I am honored to receive an offer from the Process-Energy-Environmental Systems Engineering (PEESE) Lab at Cornell University. I will join as an Ezra Postdoctoral Associate under the mentorship of  [Professor Fengqi You](https://www.peese.org/professor/), beginning on November 20, 2025. Grateful for Professor Fengqi You's trust and support!
+[2025-09] I am honored to receive an offer from the Process-Energy-Environmental Systems Engineering (PEESE) Lab at Cornell University. I will join as an Ezra Postdoctoral Associate under the mentorship of <a href="https://www.peese.org/professor/" target="_blank">Professor Fengqi You</a>, beginning on November 20, 2025. Grateful for Professor Fengqi You's trust and support!
 
 
   </li>
@@ -68,9 +67,9 @@ author_profile: false
     <span style="font-family: monospace;">[2020-08]</span>
     I successfully defended my master's thesis! I am grateful for the invaluable mentoring of Professor Yang Liu.
       </li>
-    
+     
      <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from the Stevens Institute of Technology. Grateful for  [Professor Lei Wu](https://sites.google.com/site/leiwupes/about-me)'s trust and support!
+    <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from the Stevens Institute of Technology. Grateful for <a href="https://sites.google.com/site/leiwupes/about-me" target="_blank">Professor Lei Wu</a>'s trust and support!
   </li>
 
 </ul>
