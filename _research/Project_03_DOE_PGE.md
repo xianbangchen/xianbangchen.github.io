@@ -50,24 +50,23 @@ The medium-term planning method is built upon deep reinforcement learning, offer
     <span style="font-family: monospace;">[1]</span> Xianbang Chen, Yikui Liu, Zhiming Zhong, Neng Fan, Zhechong Zhao, Lei Wu. "A carryover storage valuation framework for medium-term cascaded hydropower planning: A Portland General Electric system study," <em>IEEE Transactions on Sustainable Energy</em>, 2025.
     <a href="/assets/papers/Project_03_Paper_01.pdf">[PDF »]</a>
   </li>
-
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
-    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Neng Fan, Lei Wu. "DRL-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation," <em>arxiv</em>, 2025.
+    <span style="font-family: monospace;">[2]</span> Xianbang Chen, Yikui Liu, Neng Fan, Lei Wu. "*An operating profit-oriented medium-term planning method for renewable-integrated cascaded hydropower*," <em>Energy</em>, 2025.
     <a href="/assets/papers/Project_03_Paper_02.pdf">[PDF »]</a>
   </li>  
-  
+
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
     <span style="font-family: monospace;">[3]</span> Yikui Liu, Xianbang Chen, Neng Fan, Zhechong Zhao, Lei Wu. "Stochastic day-ahead operation of cascaded hydropower systems with Bayesian neural network-based scenario generation: A Portland General Electric system study," <em>International Journal of Electrical Power & Energy Systems</em>, 2023.
   </li>  
-  
+
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
     <span style="font-family: monospace;">[4]</span> Zhiming Zhong, Neng Fan, Lei Wu. "Multistage stochastic optimization for mid-term integrated generation and maintenance scheduling of cascaded hydroelectric system with renewable energy uncertainty," <em>European Journal of Operational Research</em>, 2024.
   </li>  
-  
+
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
     <span style="font-family: monospace;">[5]</span> Zhiming Zhong, Neng Fan, Lei Wu. "Multistage robust optimization for the day-ahead scheduling of hybrid thermal-hydro-wind-solar systems," <em>Journal of Global Optimization</em>, 2024.
   </li>
-  
+
   <li style="padding-left: 1.9em; text-indent: -2.1em;">
     <span style="font-family: monospace;">[6]</span> Zhiming Zhong, Neng Fan, Lei Wu. "A hybrid robust-stochastic optimization approach for day-ahead scheduling of cascaded hydroelectric system in restructured electricity market," <em>European Journal of Operational Research</em>, 2023.
   </li>
