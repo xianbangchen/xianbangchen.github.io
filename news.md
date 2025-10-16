@@ -67,10 +67,11 @@ author_profile: false
     <span style="font-family: monospace;">[2023-07]</span> I had the honor of delivering a presentation at the 2023 IEEE Power & Energy Society General Meeting in Orlando, Florida. <a href="/assets/slides/2023-07-23PESGM0568.pdf">[Slides »]</a> <a href="/assets/slides/2023-07-Poster_GM_2023.pdf">[Poster »]</a>
   </li>
 </ul>
-
-  <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;"><li style="padding-left: 5.6em; text-indent: -5.65em;">
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;"><li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2023-06]</span> I had the honor of delivering a presentation at the 2023 Federal Energy Regulatory Commission (FERC) Software Conference in Washington, DC. <a href="/assets/slides/2023-06-FERC_Slides_2023.pdf">[Slides »]</a>
   </li>
+</ul>
+
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
@@ -101,4 +102,3 @@ author_profile: false
 <span style="font-family: monospace;">[2020-04]</span> I am grateful to receive the Provost Doctoral Fellowship from Stevens Institute of Technology. Grateful for <a href="https://sites.google.com/site/leiwupes/about-me" target="_blank">Professor Lei Wu</a>'s trust and support!
   </li>
 </ul>
-
