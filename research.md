@@ -6,13 +6,15 @@ permalink: /research/
 author_profile: false
 ---
 
-**[Project 04: Multi-Area Coordinated Operations Considering Cross-Regional Offshore Wind Participation](/research/Project_04_DOE_Offshore/)**  
+**[Project 04: Addressing Market Design and Operational Gaps for Multiregional Participation with Interregional Operational Coordination](/research/Project_04_DOE_Offshore/)**  
+
 <p align="center">
 <a href="/research/Project_04_DOE_Offshore/">
-  <img src="/assets/images/Project_04_Fig01_Title.jpg" alt="Alt text" width="90%">
+  <img src="/assets/images/Project_04_Fig01_Title.gif" alt="Alt text" width="90%">
 </a>
 </p>
-*Address the operational challenges of cross-regional transmission systems caused by connecting offshore wind to multiple regions.* [Read More »](/research/Project_04_DOE_Offshore/)
+
+*Answer this question: How do interconnected ISOs with offshore wind coordinate at the day-ahead stage regarding power interchange, congestion management, and other factors?* [Read More »](/research/Project_04_DOE_Offshore/)
 
 ---
 
@@ -45,5 +47,4 @@ author_profile: false
 *Apply distributionally robust optimization for power system operations considering uncertainties.* [Read More »](/research/Project_01_DRO/)
 
 ---
-
 
