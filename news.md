@@ -10,8 +10,9 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the Special Issue <em>Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</em> in <em>Sustainable Energy Technologies and Assessments</em>.
+    <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the Special Issue <em><a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank" style="color: inherit; text-decoration: underline;">Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</a></em> in <em><a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments" target="_blank" style="color: inherit; text-decoration: underline;">Sustainable Energy Technologies and Assessments</a></em>.
   </li>
+</ul>
 
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2025-09]</span> I am honored to receive an offer from the Process-Energy-Environmental Systems Engineering (PEESE) Lab at Cornell University. I will join as an Ezra Postdoctoral Associate under the mentorship of <a href="https://www.peese.org/professor/" target="_blank">Professor Fengqi You</a>, beginning on November 20, 2025. Grateful for Professor Fengqi You's trust and support!
