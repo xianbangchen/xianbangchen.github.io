@@ -6,6 +6,16 @@ permalink: /research/
 author_profile: false
 ---
 
+**[Project 05: Enhancing Economics and Resilience of Greenhouse via Closed-Loop Performance-Driven Learning-Based Control](/research/Project_05_CEA_Cornell/)**  
+
+<p align="center">
+<a href="/research/Project_05_CEA_Cornell/">
+  <img src="/assets/images/Project_05_Fig01_Title.gif" alt="Alt text" width="90%">
+</a>
+</p>
+
+*Developing AI-based control methods for greenhouse energy systems in the context of controlled-environment agriculture. The goal is to enhance the economics (improve profits) and resilience (be stronger against extreme cases) of the greenhouse facilities.* [Read More »](/research/Project_05_CEA_Cornell/)
+
 **[Project 04: Addressing Market Design and Operational Gaps for Multiregional Participation with Interregional Operational Coordination](/research/Project_04_DOE_Offshore/)**  
 
 <p align="center">
@@ -13,7 +23,6 @@ author_profile: false
   <img src="/assets/images/Project_04_Fig01_Title.gif" alt="Alt text" width="90%">
 </a>
 </p>
-
 *Answer this question: How do interconnected ISOs with offshore wind coordinate at the day-ahead stage regarding power interchange, congestion management, and other factors?* [Read More »](/research/Project_04_DOE_Offshore/)
 
 ---
