@@ -116,12 +116,12 @@ author:
   name             : "Xianbang Chen, Ph.D"
   avatar           : /assets/images/bio-photo.png
   links:
-    - label: "Stevens Institute of Technology"
+    - label: "Cornell University"
       icon: "fas fa-fw fa-university"
-      url: "https://www.stevens.edu/"
-    - label: "xchen130@stevens.edu"
+      url: "https://www.cornell.edu/"
+    - label: "xianbang.chen@cornell.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "xchen130@stevens.edu"
+      url: "xianbang.chen@cornell.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=woLL0SIAAAAJ&hl=en"
