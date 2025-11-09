@@ -4,10 +4,6 @@ layout: single
 permalink: /papers/
 author_profile: false
 ---
-<strong>Under-Review Works</strong>
-
-
-
 <strong>Peer-Reviewed Published Works</strong>
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
