@@ -27,17 +27,19 @@ author_profile: false
 
 ---
 
-**[Project 03: Cascaded Hydropower Operations](/research/Project_03_DOE_PGE/)**
+**[Project 03: Improving the Economics of Cascade Hydropower Operation in the Context of Modern Power Systems](/research/Project_03_DOE_PGE/)**
+
 <p align="center">
 <a href="/research/Project_03_DOE_PGE/">
   <img src="/assets/images/Project_03_Fig01_Title.jpg" alt="Alt text" width="100%">
 </a>
 </p>
-*Assist cascaded hydropower fleets in adapting to modern power systems by enhancing their operations.* [Read More »](/research/Project_03_DOE_PGE/)
+*Assisting cascade hydropower fleets in achieving good operating revenue in modern power systems.* [Read More »](/research/Project_03_DOE_PGE/)
 
 ---
 
-**[Project 02: Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO/)**  
+**[Project 02: Boosting Power System Operation Economics via Idea of Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO/)**  
+
 <p align="center">
   <a href="/research/Project_02_CPO/">
   <img src="/assets/images/Project_02_Fig01_Title.gif" alt="Alt text" width="100%">
@@ -47,13 +49,14 @@ author_profile: false
 
 ---
 
-**[Project 01: Distributionally Robust Optimization-based Power System Operations](/research/Project_01_DRO/)**
+**[Project 01: Applying Distributionally Robust Optimization to Power System Operations](/research/Project_01_DRO/)**
+
 <p align="center">
 <a href="/research/Project_01_DRO/">
   <img src="/assets/images/Project_01_Fig01_Title.gif" alt="Alt text" width="70%">
 </a>
 </p>
-*Apply distributionally robust optimization for power system operations considering uncertainties.* [Read More »](/research/Project_01_DRO/)
+*Distributionally robust optimization is a great tool to help power systems handle operational uncertainties.* [Read More »](/research/Project_01_DRO/)
 
 ---
 
