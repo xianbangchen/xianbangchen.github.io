@@ -10,7 +10,7 @@ author_profile: false
 
 <p align="center">
   <a href="/research/Project_05_CEA_Cornell/">
-    <video autoplay loop muted playsinline width="90%">
+    <video autoplay loop muted playsinline width="100%">
       <source src="/assets/images/Project_05_Fig01_Title.webm" type="video/webm">
       Your browser does not support the WebM format.
     </video>
