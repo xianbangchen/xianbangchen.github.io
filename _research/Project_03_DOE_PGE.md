@@ -1,5 +1,5 @@
 ---
-title: "Cascaded Hydropower Operations"
+title: "Improving the Economics of Cascade Hydropower Operation in the Context of Modern Power Systems"
 layout: single
 permalink: /research/Project_03_DOE_PGE/ 
 tags: [Cascaded Hydropower, Reinforcement Learning, Multi-Parametric Programming]

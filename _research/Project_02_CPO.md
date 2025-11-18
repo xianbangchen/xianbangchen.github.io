@@ -1,5 +1,5 @@
 ---
-title: "Closed-Loop Predict-Then-Optimize"
+title: "Boosting Power System Operation Economics via Closed-Loop Predict-Then-Optimize Idea"
 layout: single
 permalink: /research/Project_02_CPO/
 tags: [Predict Then Optimize, Unit Commitment, Prescriptive Analytics, Value-Oriented Prediction, Bi-Level Mixed-Integer Programming]

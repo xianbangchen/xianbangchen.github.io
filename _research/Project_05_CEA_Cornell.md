@@ -5,7 +5,7 @@ permalink: /research/Project_05_CEA_Cornell/
 tags: [Greenhouse, Model Predictive Control, Deep Reinforcement Learning, Microgrid]
 ---
 <p align="center">
-  <img src="/assets/images/Project_05_Fig01_Title.gif" alt="Alt text" width="100%">
+  <img src="/assets/images/Project_05_Fig01_Title.webm" alt="Alt text" width="100%">
         <figcaption style="font-style: italic;">Illustration of a greenhouse facility.</figcaption>
 
 

@@ -10,10 +10,9 @@ author_profile: false
 
 <p align="center">
 <a href="/research/Project_05_CEA_Cornell/">
-  <img src="/assets/images/Project_05_Fig01_Title.gif" alt="Alt text" width="90%">
+  <img src="/assets/images/Project_05_Fig01_Title.webm" alt="Alt text" width="90%">
 </a>
 </p>
-
 *Developing AI-based control methods for greenhouse energy systems in the context of controlled-environment agriculture. The goal is to enhance the economics (improve profits) and resilience (be stronger against extreme cases) of the greenhouse facilities.* [Read More »](/research/Project_05_CEA_Cornell/)
 
 **[Project 04: Addressing Market Design and Operational Gaps for Multiregional Participation with Interregional Operational Coordination](/research/Project_04_DOE_Offshore/)**  
@@ -38,7 +37,7 @@ author_profile: false
 
 ---
 
-**[Project 02: Boosting Power System Operation Economics via Idea of Closed-Loop Predict-Then-Optimize](/research/Project_02_CPO/)**  
+**[Project 02: Boosting Power System Operation Economics via Closed-Loop Predict-Then-Optimize Idea](/research/Project_02_CPO/)**  
 
 <p align="center">
   <a href="/research/Project_02_CPO/">
