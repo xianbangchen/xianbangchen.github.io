@@ -10,6 +10,12 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
+    <span style="font-family: monospace;">[2025-11]</span> I was honored to be recognized as the <a href="/assets/images/ICSCGE_2025_Best_Reviewer_Certificate.pdf">best reviewer</a> for <em> the 5th International Conference on Smart City and Green Energy (ICSCGE 2025) Melbourne, Australia</em>. Thank you, <em>ICSCGE</em>!
+  </li>
+</ul>
+
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+  <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the Special Issue <a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank"><em>Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</em></a> in <a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments" target="_blank"><em>Sustainable Energy Technologies and Assessments</em></a>.    
   </li>
 </ul>
