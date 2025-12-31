@@ -40,7 +40,7 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-02]</span> I was invited to give a seminar talk at Stevens Institute of Technology. Thank you, Professor Kevin Lu! <a href="/assets/slides/2025-02-stevens_seminar.png">[Slides »]</a>
+    <span style="font-family: monospace;">[2025-02]</span> I was invited to give a seminar talk at Stevens Institute of Technology. Thank you, Professor Kevin Lu! <a href="/assets/slides/2025-02-stevens_seminar.png">[Post »]</a>
   </li>
 </ul>
 
