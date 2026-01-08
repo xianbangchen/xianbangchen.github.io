@@ -10,6 +10,18 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
+    <span style="font-family: monospace;">[2025-11]</span> I was honored to be recognized as the <a href="/assets/images/MPCE_Best_Reviewer_Certificate.pdf">excellent reviewer</a> for the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265" target="_blank"><em>Journal of Modern Power Systems and Clean Energy (MPCE). (IF = 6.1)</em>. Thank you, <em>MPCE</em>!
+  </li>
+</ul>
+
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+  <li style="padding-left: 5.6em; text-indent: -5.65em;">
+    <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the Special Issue <a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank"><em>Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</em></a> in <a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments" target="_blank"><em>Sustainable Energy Technologies and Assessments</em></a> (IF = 7.0).
+  </li>
+</ul>
+
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+  <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2025-12]</span> I have been appointed as a Youth Editor for <a href="https://www.pcmp.info/pcmp/ch/index.aspx" target="_blank"><em>Protection and Control of Modern Power Systems (PCMP)</em></a> (IF = 11.9).
   </li>
 </ul>
@@ -24,8 +36,6 @@ author_profile: false
     <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the Special Issue <a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank"><em>Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</em></a> in <a href="https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments" target="_blank"><em>Sustainable Energy Technologies and Assessments</em></a> (IF = 7.0).
   </li>
 </ul>
-
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2025-09]</span> I am honored to receive an offer from the Process-Energy-Environmental Systems Engineering (PEESE) Lab at Cornell University. I will join as an Ezra Postdoctoral Associate under the mentorship of <a href="https://www.peese.org/professor/" target="_blank">Professor Fengqi You</a>, beginning on November 20, 2025. Grateful for Professor Fengqi You's trust and support!
