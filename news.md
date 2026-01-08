@@ -14,7 +14,7 @@ author_profile: false
     <a href="/assets/images/MPCE_Best_Reviewer_Certificate.pdf">Excellent Reviewer</a> for the
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265" target="_blank" rel="noopener noreferrer">
       <em>Journal of Modern Power Systems and Clean Energy (MPCE)</em>
-    </a> (IF: 6.1). Thank you, <em>MPCE</em>!
+    </a> (IF: 6.1).
   </li>
 </ul>
 
@@ -47,7 +47,6 @@ author_profile: false
     <span style="font-family: monospace;">[2025-11]</span> I was honored to be recognized as the
     <a href="/assets/images/ICSCGE_2025_Best_Reviewer_Certificate.pdf">Best Reviewer</a> for
     <em>the 5th International Conference on Smart City and Green Energy (ICSCGE 2025)</em>, Melbourne, Australia.
-    Thank you, <em>ICSCGE</em>!
   </li>
 </ul>
 
