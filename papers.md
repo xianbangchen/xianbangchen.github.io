@@ -8,6 +8,12 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 3.05em; text-indent: -3.3em;">
+    <span style="font-family: monospace;">[013]</span> Weilun Wang, <strong>Xianbang Chen</strong>, Yikui Liu, Lei Wu. "Forming multi-transmission-node distributed energy resource aggregations in wholesale energy market: An optimal node aggregation approach and admissible capacity expansion regions," <em>Applied Energy</em>, 2025.
+  </li>
+</ul>  
+
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+    <li style="padding-left: 3.05em; text-indent: -3.3em;">
     <span style="font-family: monospace;">[012]</span> <strong>Xianbang Chen</strong>, Yikui Liu, Neng Fan, Lei Wu. "An operating profit-oriented medium-term planning method for renewable-integrated cascaded hydropower," <em>Energy</em>, 2025.
   </li>
 </ul>  
