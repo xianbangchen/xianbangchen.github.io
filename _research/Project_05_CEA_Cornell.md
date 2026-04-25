@@ -13,5 +13,3 @@ tags: [Greenhouse, Model Predictive Control, Deep Reinforcement Learning, Microg
 </p>
 
 This is an ongoing [project](https://www.ceaforum.org/) supported by the [USDA NIFA Specialty Crop Research Initiative](https://www.nifa.usda.gov/).
-
-I will conduct research under the supervision of [Prof. Fengqi You](https://www.peese.org/professor/).
