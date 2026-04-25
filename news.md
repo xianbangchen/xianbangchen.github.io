@@ -16,8 +16,6 @@ author_profile: false
     (IF: 11.9).
   </li>
 </ul>
-
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
     <span style="font-family: monospace;">[2025-11]</span> I was honored to be recognized as an
@@ -54,10 +52,7 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-09]</span> I am honored to have accepted an offer to join the Process-Energy-Environmental Systems Engineering (PEESE) Lab at Cornell University.
-    I will join as an Ezra Postdoctoral Associate under the mentorship of
-    <a href="https://www.peese.org/professor/" target="_blank" rel="noopener noreferrer">Professor Fengqi You</a>,
-    beginning on November 20, 2025. Grateful for Professor You's trust and support!
+    <span style="font-family: monospace;">[2025-09]</span> I am honored to have accepted an offer to join Cornell University as a Postdoctoral Associate, beginning on November 20, 2025. Grateful!
   </li>
 </ul>
 
