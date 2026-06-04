@@ -38,8 +38,7 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a Guest Editor for the special issue titled
-    <a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank" rel="noopener noreferrer">
+    <span style="font-family: monospace;">[2025-09]</span> I have been appointed as a <a href="/assets/images/Certificate_SETA_Editor_Guest Editor.pdf">Guest Editor</a> for the special issue titled <a href="https://www.sciencedirect.com/special-issue/326771/digital-twin-and-scenario-based-assessments-for-sustainable-energy-technologies" target="_blank" rel="noopener noreferrer">
       <em>Digital Twin and Scenario-Based Assessments for Sustainable Energy Technologies</em>
     </a>
     in
