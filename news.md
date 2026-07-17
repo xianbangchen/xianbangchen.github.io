@@ -48,12 +48,12 @@ author_profile: false
     (IF: 7.0).
   </li>
 </ul>
-
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
-    <span style="font-family: monospace;">[2025-09]</span> I am honored to have accepted an offer to join Cornell University as a Postdoctoral Associate, beginning on November 20, 2025. Grateful!
+    <span style="font-family: monospace;">[2025-09]</span> I accepted an offer to join Cornell University as a Postdoctoral Associate, beginning on November 20, 2025.
   </li>
 </ul>
+
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
   <li style="padding-left: 5.6em; text-indent: -5.65em;">
