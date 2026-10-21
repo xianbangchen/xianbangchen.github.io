@@ -16,7 +16,7 @@ author_profile: false
     </video>
   </a>
 </p>
-*Developing AI-based control methods for greenhouse energy systems in the context of controlled-environment agriculture. The goal is to enhance the economics (improve profits) and resilience (be stronger against extreme cases) of the greenhouse facilities.* [Read More »](/research/Project_05_CEA_Cornell/)
+*Developing AI-based control methods for greenhouse energy systems in the context of controlled-environment agriculture. The goal is to enhance the economics (improve profits) of the greenhouse facilities.* [Read More »](/research/Project_05_CEA_Cornell/)
 
 **[Project 04: Addressing Market Design and Operational Gaps for Multiregional Participation with Interregional Operational Coordination](/research/Project_04_DOE_Offshore/)**  
 
