@@ -8,6 +8,12 @@ author_profile: false
 
 <ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
     <li style="padding-left: 3.05em; text-indent: -3.3em;">
+    <span style="font-family: monospace;">[014]</span> <strong>Xianbang Chen</strong>, Fengqi You. "<a href="https://www.sciencedirect.com/science/article/abs/pii/S016816992601094X">Decision-focused learning-augmented MPC for climate control in controlled-environment agriculture greenhouses</a>," <em>Computers and Electronics in Agriculture</em>, 2026.
+  </li>
+</ul>
+
+<ul style="font-size: 75%; list-style: none; margin: 0; padding: 0;">
+    <li style="padding-left: 3.05em; text-indent: -3.3em;">
     <span style="font-family: monospace;">[013]</span> Weilun Wang, <strong>Xianbang Chen</strong>, Yikui Liu, Lei Wu. "Forming multi-transmission-node distributed energy resource aggregations in wholesale energy market: An optimal node aggregation approach and admissible capacity expansion regions," <em>Applied Energy</em>, 2025.
   </li>
 </ul>  
