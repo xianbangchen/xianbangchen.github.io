@@ -6,6 +6,18 @@ permalink: /research/
 author_profile: false
 ---
 
+**[Project 05: Enhancing Economics and Resilience of Greenhouse via Closed-Loop Performance-Driven Learning-Based Control](/research/Project_05_CEA_Cornell/)**  
+
+<p align="center">
+  <a href="/research/Project_05_CEA_Cornell/">
+    <video autoplay loop muted playsinline width="100%">
+      <source src="/assets/images/Project_05_Fig01_Title.webm" type="video/webm">
+      Your browser does not support the WebM format.
+    </video>
+  </a>
+</p>
+*Developing AI-based control methods for greenhouse energy systems in the context of controlled-environment agriculture. The goal is to enhance the economics (improve profits) and resilience (be stronger against extreme cases) of the greenhouse facilities.* [Read More »](/research/Project_05_CEA_Cornell/)
+
 **[Project 04: Addressing Market Design and Operational Gaps for Multiregional Participation with Interregional Operational Coordination](/research/Project_04_DOE_Offshore/)**  
 
 <p align="center">
